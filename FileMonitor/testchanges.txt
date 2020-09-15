@@ -1,0 +1,1663 @@
+Jun 24 17:11:18 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 786827 was not found when attempting to remove it
+Jun 24 17:11:21 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/58 (g-dbus-error-quark, 19)
+Jun 24 17:11:21 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/58 (g-dbus-error-quark, 19)
+Jun 24 17:11:21 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/58 (g-dbus-error-quark, 19)
+Jun 24 17:11:40 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 788091 was not found when attempting to remove it
+Jun 24 17:11:42 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/60 (g-dbus-error-quark, 19)
+Jun 24 17:11:42 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/60 (g-dbus-error-quark, 19)
+Jun 24 17:11:42 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/60 (g-dbus-error-quark, 19)
+Jun 24 17:12:21 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 790227 was not found when attempting to remove it
+Jun 24 17:12:25 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/62 (g-dbus-error-quark, 19)
+Jun 24 17:12:25 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/62 (g-dbus-error-quark, 19)
+Jun 24 17:12:25 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/62 (g-dbus-error-quark, 19)
+Jun 24 17:12:28 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 790970 was not found when attempting to remove it
+Jun 24 17:12:30 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/64 (g-dbus-error-quark, 19)
+Jun 24 17:12:30 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/64 (g-dbus-error-quark, 19)
+Jun 24 17:12:30 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/64 (g-dbus-error-quark, 19)
+Jun 24 17:12:44 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 791670 was not found when attempting to remove it
+Jun 24 17:12:47 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/66 (g-dbus-error-quark, 19)
+Jun 24 17:12:47 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/66 (g-dbus-error-quark, 19)
+Jun 24 17:12:47 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/66 (g-dbus-error-quark, 19)
+Jun 24 17:13:58 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 792481 was not found when attempting to remove it
+Jun 24 17:14:01 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/68 (g-dbus-error-quark, 19)
+Jun 24 17:14:01 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/68 (g-dbus-error-quark, 19)
+Jun 24 17:14:01 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/68 (g-dbus-error-quark, 19)
+Jun 24 17:14:15 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 793562 was not found when attempting to remove it
+Jun 24 17:17:01 bla-X411UA CRON[20096]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 24 17:17:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 24 17:25:41 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 796191 was not found when attempting to remove it
+Jun 24 17:25:44 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/72 (g-dbus-error-quark, 19)
+Jun 24 17:25:44 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/72 (g-dbus-error-quark, 19)
+Jun 24 17:25:44 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/72 (g-dbus-error-quark, 19)
+Jun 24 17:27:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 24 17:49:23 bla-X411UA kernel: [198007.357216] ath10k_pci 0000:02:00.0: failed to install key for vdev 0 peer a4:91:b1:c9:e1:6d: -110
+Jun 24 17:49:23 bla-X411UA kernel: [198007.357219] wlp2s0: failed to remove key (0, a4:91:b1:c9:e1:6d) from hardware (-110)
+Jun 24 17:47:10 bla-X411UA wpa_supplicant[1149]: message repeated 2 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 24 17:49:23 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=a4:91:b1:c9:e1:6d reason=4 locally_generated=1
+Jun 24 17:49:23 bla-X411UA NetworkManager[901]: <warn>  [1593010163.4107] sup-iface[0x1cb76c0,wlp2s0]: connection disconnected (reason -4)
+Jun 24 17:49:23 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Jun 24 17:49:23 bla-X411UA NetworkManager[901]: <info>  [1593010163.4411] device (wlp2s0): supplicant interface state: completed -> disconnected
+Jun 24 17:49:23 bla-X411UA NetworkManager[901]: <info>  [1593010163.5157] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Jun 24 17:49:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2437 MHz)
+Jun 24 17:49:28 bla-X411UA kernel: [198012.274975] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 24 17:49:28 bla-X411UA kernel: [198012.327939] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 24 17:49:28 bla-X411UA NetworkManager[901]: <info>  [1593010168.3737] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Jun 24 17:49:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: Trying to associate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2437 MHz)
+Jun 24 17:49:28 bla-X411UA kernel: [198012.329951] wlp2s0: authenticated
+Jun 24 17:49:28 bla-X411UA NetworkManager[901]: <info>  [1593010168.3811] device (wlp2s0): supplicant interface state: authenticating -> associating
+Jun 24 17:49:28 bla-X411UA kernel: [198012.337034] wlp2s0: associate with a4:91:b1:c9:e1:6d (try 1/3)
+Jun 24 17:49:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: Associated with a4:91:b1:c9:e1:6d
+Jun 24 17:49:28 bla-X411UA kernel: [198012.341959] wlp2s0: RX AssocResp from a4:91:b1:c9:e1:6d (capab=0x1411 status=0 aid=2)
+Jun 24 17:49:28 bla-X411UA kernel: [198012.343901] wlp2s0: associated
+Jun 24 17:49:28 bla-X411UA NetworkManager[901]: <info>  [1593010168.3945] device (wlp2s0): supplicant interface state: associating -> associated
+Jun 24 17:49:28 bla-X411UA NetworkManager[901]: <info>  [1593010168.4040] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Jun 24 17:49:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Key negotiation completed with a4:91:b1:c9:e1:6d [PTK=CCMP GTK=CCMP]
+Jun 24 17:49:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to a4:91:b1:c9:e1:6d completed [id=0 id_str=]
+Jun 24 17:49:28 bla-X411UA NetworkManager[901]: <info>  [1593010168.4140] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Jun 24 17:50:02 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 24 17:50:03 bla-X411UA wpa_supplicant[1149]: message repeated 2 times: [ p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN]
+Jun 24 17:57:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 24 18:07:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 24 18:17:01 bla-X411UA CRON[21604]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 24 18:17:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 24 18:57:10 bla-X411UA wpa_supplicant[1149]: message repeated 4 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 24 18:59:15 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 797296 was not found when attempting to remove it
+Jun 24 18:59:18 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/74 (g-dbus-error-quark, 19)
+Jun 24 18:59:18 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_infos_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/74 (g-dbus-error-quark, 19)
+Jun 24 18:59:18 bla-X411UA org.gtk.vfs.Daemon[1457]: ** (process:1917): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/74 (g-dbus-error-quark, 19)
+Jun 24 19:02:13 bla-X411UA dhclient[5220]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 192.168.1.1 port 67 (xid=0x72219f5d)
+Jun 24 19:02:14 bla-X411UA dhclient[5220]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0189]   address 192.168.1.118
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0189]   plen 24 (255.255.255.0)
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0190]   gateway 192.168.1.1
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0190]   server identifier 192.168.1.1
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0190]   lease time 43200
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0190]   hostname 'bla-X411UA'
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0190]   nameserver '192.168.1.1'
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0191]   domain name 'lan'
+Jun 24 19:02:14 bla-X411UA NetworkManager[901]: <info>  [1593014534.0200] dhcp4 (wlp2s0): state changed bound -> bound
+Jun 24 19:02:14 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 24 19:02:14 bla-X411UA dhclient[5220]: bound to 192.168.1.118 -- renewal in 18306 seconds.
+Jun 24 19:02:14 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 24 19:02:14 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 24 19:02:14 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 24 19:02:14 bla-X411UA nm-dispatcher: req:1 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 24 19:02:14 bla-X411UA nm-dispatcher: req:1 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 24 19:07:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 24 19:07:16 bla-X411UA com.canonical.Unity.Scope.Music[1457]: (unity-music-daemon:3112): unity-music-daemon-WARNING **: rhythmbox-collection.vala:510: Unable to open album-art DB!
+Jun 24 19:07:16 bla-X411UA com.canonical.Unity.Scope.Music[1457]: (unity-music-daemon:3112): unity-music-daemon-WARNING **: rhythmbox-collection.vala:574: Error while parsing rhythmbox DB: Error opening file: No such file or directory
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.0951] manager: sleep requested (sleeping: no  enabled: yes)
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.0951] manager: sleeping...
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.0952] manager: NetworkManager state is now ASLEEP
+Jun 24 19:10:47 bla-X411UA whoopsie[1160]: [19:10:47] offline
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.0990] device (wlp2s0): state change: activated -> deactivating (reason 'sleeping') [100 110 37]
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.1092] device (wlp2s0): state change: deactivating -> disconnected (reason 'sleeping') [110 30 37]
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:d9e4:3cd7:d917:209c.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.
+Jun 24 19:10:47 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1755 was not found when attempting to remove it
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 24 19:10:47 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv6 no longer relevant for mDNS.
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.1423] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 5220
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.1424] dhcp4 (wlp2s0): state changed bound -> done
+Jun 24 19:10:47 bla-X411UA NetworkManager[901]: <info>  [1593015047.1433] dhcp6 (wlp2s0): canceled DHCP transaction
+Jun 24 19:10:47 bla-X411UA kernel: [202890.919958] wlp2s0: deauthenticating from a4:91:b1:c9:e1:6d by local choice (Reason: 3=DEAUTH_LEAVING)
+Jun 24 19:10:50 bla-X411UA org.freedesktop.Notifications[1457]: ** (notify-osd:2037): WARNING **: dnd_is_screensaver_active(): Got error "Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken."
+Jun 24 19:10:50 bla-X411UA kernel: [202893.960543] ath10k_pci 0000:02:00.0: failed to install key for vdev 0 peer a4:91:b1:c9:e1:6d: -110
+Jun 24 19:10:50 bla-X411UA kernel: [202893.960547] wlp2s0: failed to remove key (0, a4:91:b1:c9:e1:6d) from hardware (-110)
+Jun 24 19:10:50 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=a4:91:b1:c9:e1:6d reason=3 locally_generated=1
+Jun 24 19:10:50 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Jun 24 19:10:50 bla-X411UA avahi-daemon[841]: Withdrawing address record for 192.168.1.118 on wlp2s0.
+Jun 24 19:10:50 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 24 19:10:50 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Jun 24 19:10:50 bla-X411UA NetworkManager[901]: <info>  [1593015050.1985] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 24 19:10:50 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 24 19:10:50 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 24 19:10:50 bla-X411UA NetworkManager[901]: <info>  [1593015050.2108] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 24 19:10:50 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 24 19:10:50 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 24 19:10:50 bla-X411UA NetworkManager[901]: <warn>  [1593015050.2539] sup-iface[0x1cb76c0,wlp2s0]: connection disconnected (reason -3)
+Jun 24 19:10:50 bla-X411UA NetworkManager[901]: <info>  [1593015050.2540] device (wlp2s0): supplicant interface state: completed -> disconnected
+Jun 24 19:10:50 bla-X411UA NetworkManager[901]: <info>  [1593015050.2549] device (wlp2s0): state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+Jun 24 19:10:50 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 24 19:10:50 bla-X411UA wpa_supplicant[1149]: nl80211: deinit ifname=p2p-dev-wlp2s0 disabled_11b_rates=0
+Jun 24 19:10:50 bla-X411UA systemd[1]: Reached target Sleep.
+Jun 24 19:10:50 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 24 19:10:50 bla-X411UA systemd[1]: Starting Suspend...
+Jun 24 19:10:50 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 24 19:10:50 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: new request (1 scripts)
+Jun 24 19:10:50 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: start running ordered scripts...
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]: ERROR:dbus.connection:Exception in handler for D-Bus signal:
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]: Traceback (most recent call last):
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/connection.py", line 230, in maybe_handle_message
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     self._handler(*args, **kwargs)
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/AlertWatcher.py", line 78, in _on_network_state_changed
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     self._update_3g_state()
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/AlertWatcher.py", line 83, in _update_3g_state
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     on_3g = nm.is_active_connection_gsm_or_cdma()
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/roam.py", line 172, in is_active_connection_gsm_or_cdma
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     active, self.NM_DBUS_IFACE + ".Connection.Active", 'Default')
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/roam.py", line 162, in get_dbus_property
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     property = props.Get(interface, property)
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 70, in __call__
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     return self._proxy_method(*args, **keywords)
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 145, in __call__
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     **keywords)
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/connection.py", line 651, in call_blocking
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]:     message, timeout)
+Jun 24 19:10:50 bla-X411UA gnome-session[1594]: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/ActiveConnection/23
+Jun 24 19:10:50 bla-X411UA wpa_supplicant[1149]: nl80211: deinit ifname=wlp2s0 disabled_11b_rates=0
+Jun 24 19:10:55 bla-X411UA whoopsie[1160]: [19:10:55] Cannot reach: https://daisy.ubuntu.com
+Jun 24 19:10:55 bla-X411UA whoopsie[1160]: [19:10:55] Cannot reach: https://daisy.ubuntu.com
+Jun 24 19:11:00 bla-X411UA systemd-sleep[22887]: Selected interface 'p2p-dev-wlp2s0'
+Jun 24 19:11:00 bla-X411UA systemd-sleep[22887]: 'SUSPEND' command timed out.
+Jun 24 19:11:00 bla-X411UA systemd-sleep[22889]: /lib/systemd/system-sleep/wpasupplicant failed with error code 254.
+Jun 24 19:11:00 bla-X411UA systemd-sleep[22887]: Suspending system...
+Jun 24 19:11:00 bla-X411UA kernel: [202904.071568] PM: suspend entry (deep)
+Jun 24 19:11:00 bla-X411UA kernel: [202904.071574] PM: Syncing filesystems ... done.
+Jun 25 09:10:38 bla-X411UA kernel: [202904.094600] Freezing user space processes ... (elapsed 0.002 seconds) done.
+Jun 25 09:10:38 bla-X411UA kernel: [202904.097532] OOM killer disabled.
+Jun 25 09:10:38 bla-X411UA kernel: [202904.097532] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jun 25 09:10:38 bla-X411UA kernel: [202904.099231] Suspending console(s) (use no_console_suspend to debug)
+Jun 25 09:10:38 bla-X411UA kernel: [202904.128405] sd 1:0:0:0: [sda] Synchronizing SCSI cache
+Jun 25 09:10:38 bla-X411UA kernel: [202904.134841] sd 1:0:0:0: [sda] Stopping disk
+Jun 25 09:10:38 bla-X411UA kernel: [202904.277153] ACPI: EC: interrupt blocked
+Jun 25 09:10:38 bla-X411UA kernel: [202904.321096] ACPI: Preparing to enter system sleep state S3
+Jun 25 09:10:38 bla-X411UA kernel: [202904.325142] ACPI: EC: event blocked
+Jun 25 09:10:38 bla-X411UA kernel: [202904.325144] ACPI: EC: EC stopped
+Jun 25 09:10:38 bla-X411UA kernel: [202904.325145] PM: Saving platform NVS memory
+Jun 25 09:10:38 bla-X411UA kernel: [202904.325155] Disabling non-boot CPUs ...
+Jun 25 09:10:38 bla-X411UA kernel: [202904.341996] smpboot: CPU 1 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [202904.365948] smpboot: CPU 2 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [202904.389951] smpboot: CPU 3 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [202904.413351] irq_migrate_all_off_this_cpu: 5 callbacks suppressed
+Jun 25 09:10:38 bla-X411UA kernel: [202904.413353] IRQ 125: no longer affine to CPU4
+Jun 25 09:10:38 bla-X411UA kernel: [202904.414372] smpboot: CPU 4 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [202904.436787] IRQ 124: no longer affine to CPU5
+Jun 25 09:10:38 bla-X411UA kernel: [202904.436796] IRQ 127: no longer affine to CPU5
+Jun 25 09:10:38 bla-X411UA kernel: [202904.437822] smpboot: CPU 5 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [202904.460769] IRQ 122: no longer affine to CPU6
+Jun 25 09:10:38 bla-X411UA kernel: [202904.460780] IRQ 126: no longer affine to CPU6
+Jun 25 09:10:38 bla-X411UA kernel: [202904.461803] smpboot: CPU 6 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [202904.484762] IRQ 1: no longer affine to CPU7
+Jun 25 09:10:38 bla-X411UA kernel: [202904.484772] IRQ 8: no longer affine to CPU7
+Jun 25 09:10:38 bla-X411UA kernel: [202904.484777] IRQ 9: no longer affine to CPU7
+Jun 25 09:10:38 bla-X411UA kernel: [202904.484782] IRQ 14: no longer affine to CPU7
+Jun 25 09:10:38 bla-X411UA kernel: [202904.484790] IRQ 16: no longer affine to CPU7
+Jun 25 09:10:38 bla-X411UA kernel: [202904.485840] smpboot: CPU 7 is now offline
+Jun 25 09:10:38 bla-X411UA kernel: [166513.623401] [Firmware Bug]: TSC ADJUST differs: CPU0 0 --> -16597741. Restoring
+Jun 25 09:10:38 bla-X411UA kernel: [202904.489242] ACPI: Low-level resume complete
+Jun 25 09:10:38 bla-X411UA kernel: [202904.489356] ACPI: EC: EC started
+Jun 25 09:10:38 bla-X411UA kernel: [202904.489356] PM: Restoring platform NVS memory
+Jun 25 09:10:38 bla-X411UA kernel: [202904.491893] Enabling non-boot CPUs ...
+Jun 25 09:10:38 bla-X411UA kernel: [202904.491946] x86: Booting SMP configuration:
+Jun 25 09:10:38 bla-X411UA kernel: [202904.491946] smpboot: Booting Node 0 Processor 1 APIC 0x2
+Jun 25 09:10:38 bla-X411UA kernel: [202904.492301] microcode: sig=0x806ea, pf=0x80, revision=0x96
+Jun 25 09:10:38 bla-X411UA kernel: [202904.494100]  cache: parent cpu1 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.494279] CPU1 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.494310] smpboot: Booting Node 0 Processor 2 APIC 0x4
+Jun 25 09:10:38 bla-X411UA kernel: [202904.496440]  cache: parent cpu2 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.496629] CPU2 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.496663] smpboot: Booting Node 0 Processor 3 APIC 0x6
+Jun 25 09:10:38 bla-X411UA kernel: [202904.498797]  cache: parent cpu3 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.498997] CPU3 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.499052] smpboot: Booting Node 0 Processor 4 APIC 0x1
+Jun 25 09:10:38 bla-X411UA kernel: [202904.499467] microcode: sig=0x806ea, pf=0x80, revision=0xd6
+Jun 25 09:10:38 bla-X411UA kernel: [202904.499594]  cache: parent cpu4 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.500033] CPU4 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.500058] smpboot: Booting Node 0 Processor 5 APIC 0x3
+Jun 25 09:10:38 bla-X411UA kernel: [202904.500523]  cache: parent cpu5 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.500742] CPU5 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.500766] smpboot: Booting Node 0 Processor 6 APIC 0x5
+Jun 25 09:10:38 bla-X411UA kernel: [202904.501254]  cache: parent cpu6 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.501484] CPU6 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.501506] smpboot: Booting Node 0 Processor 7 APIC 0x7
+Jun 25 09:10:38 bla-X411UA kernel: [202904.501993]  cache: parent cpu7 should not be sleeping
+Jun 25 09:10:38 bla-X411UA kernel: [202904.502234] CPU7 is up
+Jun 25 09:10:38 bla-X411UA kernel: [202904.509466] ACPI: Waking up from system sleep state S3
+Jun 25 09:10:38 bla-X411UA kernel: [202904.518244] acpi INT3400:00: Unsupported event [0x86]
+Jun 25 09:10:38 bla-X411UA kernel: [202904.519583] ACPI: EC: interrupt unblocked
+Jun 25 09:10:38 bla-X411UA kernel: [202904.563934] ACPI: EC: event unblocked
+Jun 25 09:10:38 bla-X411UA kernel: [202904.564409] sd 1:0:0:0: [sda] Starting disk
+Jun 25 09:10:38 bla-X411UA kernel: [202904.564720] usb usb1: root hub lost power or was reset
+Jun 25 09:10:38 bla-X411UA kernel: [202904.564723] usb usb2: root hub lost power or was reset
+Jun 25 09:10:38 bla-X411UA kernel: [202904.571506] rtc_cmos 00:01: Alarms can be up to one month in the future
+Jun 25 09:10:38 bla-X411UA kernel: [202904.880763] ata1: SATA link down (SStatus 4 SControl 300)
+Jun 25 09:10:38 bla-X411UA kernel: [202904.880804] ata2: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Jun 25 09:10:38 bla-X411UA kernel: [202904.882722] ata2.00: ACPI cmd ef/10:06:00:00:00:00 (SET FEATURES) succeeded
+Jun 25 09:10:38 bla-X411UA kernel: [202904.882728] ata2.00: ACPI cmd f5/00:00:00:00:00:00 (SECURITY FREEZE LOCK) filtered out
+Jun 25 09:10:38 bla-X411UA kernel: [202904.882732] ata2.00: ACPI cmd b1/c1:00:00:00:00:00 (DEVICE CONFIGURATION OVERLAY) filtered out
+Jun 25 09:10:38 bla-X411UA kernel: [202904.885242] ata2.00: ACPI cmd ef/10:06:00:00:00:00 (SET FEATURES) succeeded
+Jun 25 09:10:38 bla-X411UA kernel: [202904.885247] ata2.00: ACPI cmd f5/00:00:00:00:00:00 (SECURITY FREEZE LOCK) filtered out
+Jun 25 09:10:38 bla-X411UA kernel: [202904.885251] ata2.00: ACPI cmd b1/c1:00:00:00:00:00 (DEVICE CONFIGURATION OVERLAY) filtered out
+Jun 25 09:10:38 bla-X411UA kernel: [202904.885620] ata2.00: configured for UDMA/133
+Jun 25 09:10:38 bla-X411UA kernel: [202904.924370] usb 1-8: reset full-speed USB device number 4 using xhci_hcd
+Jun 25 09:10:38 bla-X411UA kernel: [202905.200628] usb 1-1: reset full-speed USB device number 2 using xhci_hcd
+Jun 25 09:10:38 bla-X411UA kernel: [202905.476590] usb 1-6: reset high-speed USB device number 3 using xhci_hcd
+Jun 25 09:10:38 bla-X411UA kernel: [202905.648456] OOM killer enabled.
+Jun 25 09:10:38 bla-X411UA kernel: [202905.648458] Restarting tasks ... 
+Jun 25 09:10:38 bla-X411UA kernel: [202905.650380] [drm] RC6 on
+Jun 25 09:10:38 bla-X411UA kernel: [202905.655299] Bluetooth: hci0: using rampatch file: qca/rampatch_usb_00000302.bin
+Jun 25 09:10:38 bla-X411UA kernel: [202905.655302] Bluetooth: hci0: QCA: patch rome 0x302 build 0x3e8, firmware rome 0x302 build 0x111
+Jun 25 09:10:38 bla-X411UA kernel: [202905.663965] done.
+Jun 25 09:10:38 bla-X411UA kernel: [202905.674591] PM: suspend exit
+Jun 25 09:10:38 bla-X411UA systemd[1]: Time has been changed
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jun 25 09:10:38 bla-X411UA systemd[1361]: Time has been changed
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]: System resumed.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Starting Message of the Day...
+Jun 25 09:10:38 bla-X411UA systemd[1]: Starting Load/Save RF Kill Switch Status...
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22971]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jun 25 09:10:38 bla-X411UA kernel: [202905.709373] Bluetooth: hci0: using NVM file: qca/nvm_usb_00000302.bin
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Endpoint unregistered: sender=:1.64 path=/MediaEndpoint/A2DPSource
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Endpoint unregistered: sender=:1.64 path=/MediaEndpoint/A2DPSink
+Jun 25 09:10:38 bla-X411UA systemd[1]: bluetooth.target: Unit not needed anymore. Stopping.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Stopped target Bluetooth.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Started Load/Save RF Kill Switch Status.
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]: /dev/sda:
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]:  setting Advanced Power Management level to 0x80 (128)
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]:  APM_level#011= 128
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]: /dev/sda:
+Jun 25 09:10:38 bla-X411UA systemd-sleep[22887]:  setting standby to 36 (3 minutes)
+Jun 25 09:10:38 bla-X411UA systemd[1]: Started Suspend.
+Jun 25 09:10:38 bla-X411UA systemd[1]: sleep.target: Unit not needed anymore. Stopping.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Stopped target Sleep.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Reached target Suspend.
+Jun 25 09:10:38 bla-X411UA systemd[1]: suspend.target: Unit is bound to inactive unit systemd-suspend.service. Stopping, too.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Stopped target Suspend.
+Jun 25 09:10:38 bla-X411UA systemd[1]: Started Run anacron jobs at resume.
+Jun 25 09:10:38 bla-X411UA NetworkManager[901]: <info>  [1593065438.4858] manager: wake requested (sleeping: yes  enabled: yes)
+Jun 25 09:10:38 bla-X411UA NetworkManager[901]: <info>  [1593065438.4858] manager: waking up...
+Jun 25 09:10:38 bla-X411UA NetworkManager[901]: <info>  [1593065438.4858] device (wlp2s0): state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Jun 25 09:10:38 bla-X411UA kernel: [202905.976240] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 25 09:10:38 bla-X411UA systemd[1]: Started Message of the Day.
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Failed to obtain handles for "Service Changed" characteristic
+Jun 25 09:10:38 bla-X411UA systemd[1]: Reached target Bluetooth.
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Error adding Link Loss service
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: message repeated 2 times: [ Not enough free handles to register service]
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Current Time Service could not be registered
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: gatt-time-server: Input/output error (5)
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Sap driver initialization failed.
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: sap-server: Operation not permitted (1)
+Jun 25 09:10:38 bla-X411UA bluetoothd[848]: Endpoint registered: sender=:1.64 path=/MediaEndpoint/A2DPSource
+Jun 25 09:10:39 bla-X411UA bluetoothd[848]: Endpoint registered: sender=:1.64 path=/MediaEndpoint/A2DPSink
+Jun 25 09:10:39 bla-X411UA NetworkManager[901]: <info>  [1593065439.1881] manager: NetworkManager state is now DISCONNECTED
+Jun 25 09:10:39 bla-X411UA kernel: [202906.677324] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 25 09:10:39 bla-X411UA wpa_supplicant[1149]: dbus: wpa_dbus_get_object_properties: failed to get object properties: (none) none
+Jun 25 09:10:39 bla-X411UA wpa_supplicant[1149]: dbus: Failed to construct signal
+Jun 25 09:10:39 bla-X411UA wpa_supplicant[1149]: Could not read interface p2p-dev-wlp2s0 flags: No such device
+Jun 25 09:10:39 bla-X411UA NetworkManager[901]: <info>  [1593065439.4396] device (wlp2s0): supplicant interface state: starting -> ready
+Jun 25 09:10:39 bla-X411UA NetworkManager[901]: <info>  [1593065439.4397] device (wlp2s0): state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+Jun 25 09:10:39 bla-X411UA kernel: [202906.929975] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 25 09:10:40 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2589] device (wlp2s0): supplicant interface state: ready -> inactive
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2655] policy: auto-activating connection 'AVIAD2.4'
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2667] device (wlp2s0): Activation: starting connection 'AVIAD2.4' (fb51c7d2-f4f3-48af-a2bf-33e18cd83329)
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2673] device (wlp2s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2678] manager: NetworkManager state is now CONNECTING
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2689] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2696] device (wlp2s0): Activation: (wifi) access point 'AVIAD2.4' has security, but secrets are required.
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2702] device (wlp2s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2771] device (wlp2s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2783] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2792] device (wlp2s0): Activation: (wifi) connection 'AVIAD2.4' has security, and secrets exist.  No new secrets needed.
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2795] Config: added 'ssid' value 'AVIAD2.4'
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2796] Config: added 'scan_ssid' value '1'
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2797] Config: added 'key_mgmt' value 'WPA-PSK'
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2797] Config: added 'auth_alg' value 'OPEN'
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2797] Config: added 'psk' value '<omitted>'
+Jun 25 09:10:44 bla-X411UA NetworkManager[901]: <info>  [1593065444.2883] sup-iface[0x1d151f0,wlp2s0]: config: set interface ap_scan to 1
+Jun 25 09:10:44 bla-X411UA gnome-session[1594]: (nm-applet:1793): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Jun 25 09:10:44 bla-X411UA gnome-session[1594]: message repeated 8 times: [ (nm-applet:1793): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed]
+Jun 25 09:10:45 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 09:10:45 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 09:10:49 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 25 09:10:49 bla-X411UA kernel: [202916.559090] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.1253] device (wlp2s0): supplicant interface state: inactive -> authenticating
+Jun 25 09:10:49 bla-X411UA kernel: [202916.614385] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 09:10:49 bla-X411UA kernel: [202916.719661] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 2/3)
+Jun 25 09:10:49 bla-X411UA wpa_supplicant[1149]: wlp2s0: Trying to associate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 25 09:10:49 bla-X411UA kernel: [202916.740335] wlp2s0: authenticated
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2563] device (wlp2s0): supplicant interface state: authenticating -> associating
+Jun 25 09:10:49 bla-X411UA kernel: [202916.743672] wlp2s0: associate with a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 09:10:49 bla-X411UA kernel: [202916.747240] wlp2s0: RX AssocResp from a4:91:b1:c9:e1:6d (capab=0x1411 status=0 aid=3)
+Jun 25 09:10:49 bla-X411UA wpa_supplicant[1149]: wlp2s0: Associated with a4:91:b1:c9:e1:6d
+Jun 25 09:10:49 bla-X411UA kernel: [202916.749240] wlp2s0: associated
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2652] device (wlp2s0): supplicant interface state: associating -> associated
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2745] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Jun 25 09:10:49 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Key negotiation completed with a4:91:b1:c9:e1:6d [PTK=CCMP GTK=CCMP]
+Jun 25 09:10:49 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to a4:91:b1:c9:e1:6d completed [id=0 id_str=]
+Jun 25 09:10:49 bla-X411UA kernel: [202916.768097] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2839] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2839] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'AVIAD2.4'.
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2840] device (wlp2s0): state change: config -> ip-config (reason 'none') [50 70 0]
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2847] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 25 09:10:49 bla-X411UA NetworkManager[901]: <info>  [1593065449.2909] dhcp4 (wlp2s0): dhclient started with pid 23119
+Jun 25 09:10:49 bla-X411UA dhclient[23119]: DHCPDISCOVER on wlp2s0 to 255.255.255.255 port 67 interval 3 (xid=0x7969c42c)
+Jun 25 09:10:50 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 09:10:50 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv6 for mDNS.
+Jun 25 09:10:50 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.5136] dhcp6 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.5157] dhcp6 (wlp2s0): dhclient started with pid 23126
+Jun 25 09:10:51 bla-X411UA dhclient[23126]: XMT: Info-Request on wlp2s0, interval 960ms.
+Jun 25 09:10:51 bla-X411UA dhclient[23126]: RCV: Reply message on wlp2s0 from fe80::a691:b1ff:fec9:e16c.
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8263]   nameserver 'fd09:c43d:4323::1'
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8264]   domain search 'lan.'
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8264] dhcp6 (wlp2s0): state changed unknown -> bound
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8299] device (wlp2s0): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Jun 25 09:10:51 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8313] device (wlp2s0): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8317] device (wlp2s0): state change: secondaries -> activated (reason 'none') [90 100 0]
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8319] manager: NetworkManager state is now CONNECTED_LOCAL
+Jun 25 09:10:51 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8373] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 09:10:51 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 25 09:10:51 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 25 09:10:51 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 09:10:51 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 09:10:51 bla-X411UA nm-dispatcher: req:1 'dhcp6-change' [wlp2s0]: new request (1 scripts)
+Jun 25 09:10:51 bla-X411UA nm-dispatcher: req:1 'dhcp6-change' [wlp2s0]: start running ordered scripts...
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8825] device (wlp2s0): Activation: successful, device activated.
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8845] dhcp6 (wlp2s0): client pid 23126 exited with status 0
+Jun 25 09:10:51 bla-X411UA NetworkManager[901]: <info>  [1593065451.8845] dhcp6 (wlp2s0): state changed bound -> done
+Jun 25 09:10:51 bla-X411UA nm-dispatcher: req:2 'up' [wlp2s0]: new request (1 scripts)
+Jun 25 09:10:51 bla-X411UA nm-dispatcher: req:2 'up' [wlp2s0]: start running ordered scripts...
+Jun 25 09:10:51 bla-X411UA systemd[1]: Reloading OpenBSD Secure Shell server.
+Jun 25 09:10:51 bla-X411UA systemd[1]: Reloaded OpenBSD Secure Shell server.
+Jun 25 09:10:52 bla-X411UA dhclient[23119]: DHCPDISCOVER on wlp2s0 to 255.255.255.255 port 67 interval 4 (xid=0x7969c42c)
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 09:10:52 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1755 was not found when attempting to remove it
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:d9e4:3cd7:d917:209c.
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 25 09:10:52 bla-X411UA gnome-session[1594]: (gnome-software:1787): GsPlugin-WARNING **: Failed to download https://cdn.fwupd.org/downloads/firmware.xml.gz.asc, ignoring: Cannot resolve hostname
+Jun 25 09:10:52 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 255.255.255.255 port 67 (xid=0x2cc46979)
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: DHCPOFFER of 192.168.1.118 from 192.168.1.1
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   address 192.168.1.118
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   plen 24 (255.255.255.0)
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   gateway 192.168.1.1
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   server identifier 192.168.1.1
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   lease time 43200
+Jun 25 09:10:53 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   hostname 'bla-X411UA'
+Jun 25 09:10:53 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv4 for mDNS.
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1509]   nameserver '192.168.1.1'
+Jun 25 09:10:53 bla-X411UA avahi-daemon[841]: Registering new address record for 192.168.1.118 on wlp2s0.IPv4.
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1509]   domain name 'lan'
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1509] dhcp4 (wlp2s0): state changed unknown -> bound
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1535] manager: NetworkManager state is now CONNECTED_GLOBAL
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1537] policy: set 'AVIAD2.4' (wlp2s0) as default for IPv4 routing and DNS
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1540] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 09:10:53 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 09:10:53 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 25 09:10:53 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: bound to 192.168.1.118 -- renewal in 16530 seconds.
+Jun 25 09:10:53 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 25 09:10:53 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/24
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/24
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/24
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] online
+Jun 25 09:10:53 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon [INFO]: Initializing daemon
+Jun 25 09:10:53 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 25 09:10:53 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 25 09:10:53 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon [INFO]: UpdateCache()6:fe5d.
+Jun 25 09:10:52 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1755 was not found when attempting to remove it
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:d9e4:3cd7:d917:209c.
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 25 09:10:52 bla-X411UA gnome-session[1594]: (gnome-software:1787): GsPlugin-WARNING **: Failed to download https://cdn.fwupd.org/downloads/firmware.xml.gz.asc, ignoring: Cannot resolve hostname
+Jun 25 09:10:52 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 25 09:10:52 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 255.255.255.255 port 67 (xid=0x2cc46979)
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: DHCPOFFER of 192.168.1.118 from 192.168.1.1
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   address 192.168.1.118
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   plen 24 (255.255.255.0)
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   gateway 192.168.1.1
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   server identifier 192.168.1.1
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   lease time 43200
+Jun 25 09:10:53 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1508]   hostname 'bla-X411UA'
+Jun 25 09:10:53 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv4 for mDNS.
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1509]   nameserver '192.168.1.1'
+Jun 25 09:10:53 bla-X411UA avahi-daemon[841]: Registering new address record for 192.168.1.118 on wlp2s0.IPv4.
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1509]   domain name 'lan'
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1509] dhcp4 (wlp2s0): state changed unknown -> bound
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1535] manager: NetworkManager state is now CONNECTED_GLOBAL
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1537] policy: set 'AVIAD2.4' (wlp2s0) as default for IPv4 routing and DNS
+Jun 25 09:10:53 bla-X411UA NetworkManager[901]: <info>  [1593065453.1540] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 09:10:53 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 09:10:53 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 25 09:10:53 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 09:10:53 bla-X411UA dhclient[23119]: bound to 192.168.1.118 -- renewal in 16530 seconds.
+Jun 25 09:10:53 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 25 09:10:53 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/24
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/24
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/24
+Jun 25 09:10:53 bla-X411UA whoopsie[1160]: [09:10:53] online
+Jun 25 09:10:53 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon [INFO]: Initializing daemon
+Jun 25 09:10:53 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 25 09:10:53 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 25 09:10:53 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon [INFO]: UpdateCache() was called
+Jun 25 09:10:53 bla-X411UA AptDaemon.Trans: INFO: Queuing transaction /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon.Trans [INFO]: Queuing transaction /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:10:53 bla-X411UA AptDaemon.Worker: INFO: Simulating trans: /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon.Worker [INFO]: Simulating trans: /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:10:53 bla-X411UA AptDaemon.Worker: INFO: Processing transaction /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:10:53 bla-X411UA org.debian.apt[876]: 09:10:53 AptDaemon.Worker [INFO]: Processing transaction /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:10:57 bla-X411UA AptDaemon.Worker: INFO: Updating cache
+Jun 25 09:10:57 bla-X411UA org.debian.apt[876]: 09:10:57 AptDaemon.Worker [INFO]: Updating cache
+Jun 25 09:11:06 bla-X411UA gnome-session[1594]: (gnome-software:1787): Gs-WARNING **: failed to call gs_plugin_refresh on apt: apt transaction returned result exit-failed
+Jun 25 09:11:06 bla-X411UA AptDaemon.Worker: INFO: Finished transaction /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:11:06 bla-X411UA org.debian.apt[876]: 09:11:06 AptDaemon.Worker [INFO]: Finished transaction /org/debian/apt/transaction/fee94cdc40984ec8aa5287e33bbacfe5
+Jun 25 09:17:01 bla-X411UA CRON[23737]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 09:17:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 09:21:54 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 25 09:21:54 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 25 09:21:54 bla-X411UA org.debian.apt[876]: 09:21:54 AptDaemon [INFO]: Quitting due to inactivity
+Jun 25 09:21:54 bla-X411UA org.debian.apt[876]: 09:21:54 AptDaemon [INFO]: Quitting was requested
+Jun 25 09:27:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 09:37:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 09:44:48 bla-X411UA systemd[1]: Time has been changed
+Jun 25 09:44:48 bla-X411UA systemd-timesyncd[712]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+Jun 25 09:44:48 bla-X411UA systemd[1361]: Time has been changed
+Jun 25 09:47:11 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 09:57:11 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 10:07:11 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 10:17:01 bla-X411UA CRON[25008]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 10:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 10:27:11 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 10:57:11 bla-X411UA wpa_supplicant[1149]: message repeated 3 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 11:07:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 11:15:58 bla-X411UA kernel: [210424.238495] asus_wmi: Unknown key cf pressed
+Jun 25 11:15:59 bla-X411UA kernel: [210424.347214] acpi INT3400:00: Unsupported event [0x86]
+Jun 25 11:17:01 bla-X411UA CRON[26039]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 11:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 11:23:54 bla-X411UA snapd[908]: storehelpers.go:438: cannot refresh: snap has no updates available: "core18", "snapd", "zoom-client"
+Jun 25 11:23:54 bla-X411UA snapd[908]: autorefresh.go:397: auto-refresh: all snaps are up-to-date
+Jun 25 11:27:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 11:37:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 11:39:01 bla-X411UA CRON[26372]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Jun 25 11:44:09 bla-X411UA kernel: [212114.975892] ath10k_pci 0000:02:00.0: failed to install key for vdev 0 peer a4:91:b1:c9:e1:6d: -110
+Jun 25 11:44:09 bla-X411UA kernel: [212114.975895] wlp2s0: failed to remove key (0, a4:91:b1:c9:e1:6d) from hardware (-110)
+Jun 25 11:44:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=a4:91:b1:c9:e1:6d reason=4 locally_generated=1
+Jun 25 11:44:09 bla-X411UA NetworkManager[901]: <warn>  [1593074649.6913] sup-iface[0x1d151f0,wlp2s0]: connection disconnected (reason -4)
+Jun 25 11:44:09 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Jun 25 11:44:09 bla-X411UA NetworkManager[901]: <info>  [1593074649.7251] device (wlp2s0): supplicant interface state: completed -> disconnected
+Jun 25 11:44:09 bla-X411UA NetworkManager[901]: <info>  [1593074649.7956] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Jun 25 11:44:10 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 11:44:11 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 11:44:14 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2462 MHz)
+Jun 25 11:44:14 bla-X411UA kernel: [212119.893775] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 25 11:44:14 bla-X411UA kernel: [212119.943062] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 11:44:14 bla-X411UA NetworkManager[901]: <info>  [1593074654.6497] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Jun 25 11:44:14 bla-X411UA wpa_supplicant[1149]: wlp2s0: Trying to associate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2462 MHz)
+Jun 25 11:44:14 bla-X411UA kernel: [212119.945737] wlp2s0: authenticated
+Jun 25 11:44:14 bla-X411UA kernel: [212119.947734] wlp2s0: associate with a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 11:44:14 bla-X411UA NetworkManager[901]: <info>  [1593074654.6590] device (wlp2s0): supplicant interface state: authenticating -> associating
+Jun 25 11:44:14 bla-X411UA wpa_supplicant[1149]: wlp2s0: Associated with a4:91:b1:c9:e1:6d
+Jun 25 11:44:14 bla-X411UA kernel: [212119.953010] wlp2s0: RX AssocResp from a4:91:b1:c9:e1:6d (capab=0x1411 status=0 aid=2)
+Jun 25 11:44:14 bla-X411UA kernel: [212119.954944] wlp2s0: associated
+Jun 25 11:44:14 bla-X411UA NetworkManager[901]: <info>  [1593074654.6665] device (wlp2s0): supplicant interface state: associating -> associated
+Jun 25 11:44:14 bla-X411UA NetworkManager[901]: <info>  [1593074654.6763] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Jun 25 11:44:14 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Key negotiation completed with a4:91:b1:c9:e1:6d [PTK=CCMP GTK=CCMP]
+Jun 25 11:44:14 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to a4:91:b1:c9:e1:6d completed [id=0 id_str=]
+Jun 25 11:44:14 bla-X411UA NetworkManager[901]: <info>  [1593074654.6867] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Jun 25 11:47:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 11:48:12 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 11:48:21 bla-X411UA gnome-session[1594]: ** (zeitgeist-datahub:2177): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+Jun 25 11:48:22 bla-X411UA gnome-session[1594]: ** (zeitgeist-datahub:2177): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+Jun 25 11:48:48 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 798343 was not found when attempting to remove it
+Jun 25 11:57:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 12:03:53 bla-X411UA snapd[908]: storehelpers.go:438: cannot refresh: snap has no updates available: "core18", "snapd", "zoom-client"
+Jun 25 12:03:53 bla-X411UA snapd[908]: autorefresh.go:397: auto-refresh: all snaps are up-to-date
+Jun 25 12:05:46 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Jun 25 12:05:46 bla-X411UA systemd[1]: Starting Hostname Service...
+Jun 25 12:05:46 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 25 12:05:46 bla-X411UA systemd[1]: Started Hostname Service.
+Jun 25 12:05:47 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 12:05:48 bla-X411UA gnome-session[1594]: (soffice:26920): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Jun 25 12:05:53 bla-X411UA gnome-session[1594]: message repeated 2 times: [ (soffice:26920): Gdk-WARNING **: gdk_window_set_icon_list: icons too large]
+Jun 25 12:05:53 bla-X411UA gnome-session[1594]: (soffice:26920): GLib-GObject-WARNING **: /build/glib2.0-xkQkqE/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x264b290' of type 'OOoAtkObjCompTxt'
+Jun 25 12:05:55 bla-X411UA gnome-session[1594]: (soffice:26920): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Jun 25 12:05:58 bla-X411UA gnome-session[1594]: message repeated 3 times: [ (soffice:26920): Gdk-WARNING **: gdk_window_set_icon_list: icons too large]
+Jun 25 12:05:58 bla-X411UA gnome-session[1594]: W: Unknown node under /registry/extlang: deprecated
+Jun 25 12:05:58 bla-X411UA gnome-session[1594]: W: Unknown node under /registry/grandfathered: comments
+Jun 25 12:05:58 bla-X411UA gnome-session[1594]: W: Unknown node under /registry/grandfathered: comments
+Jun 25 12:06:14 bla-X411UA gnome-session[1594]: ** (soffice:26920): WARNING **: Unknown event notification 36
+Jun 25 12:07:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 12:07:17 bla-X411UA gnome-session[1594]: (soffice:26920): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Jun 25 12:07:28 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 12:07:28 bla-X411UA gnome-session[1594]: (soffice:27013): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Jun 25 12:07:28 bla-X411UA gnome-session[1594]: (soffice:27013): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+Jun 25 12:07:] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 3/3)
+Jun 25 13:14:24 bla-X411UA kernel: [217529.964492] wlp2s0: authentication with a4:91:b1:c9:e1:6d timed out
+Jun 25 13:14:24 bla-X411UA NetworkManager[901]: <info>  [1593080064.8679] device (wlp2s0): supplicant interface state: authenticating -> disconnected
+Jun 25 13:14:25 bla-X411UA NetworkManager[901]: <info>  [1593080065.3685] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <warn>  [1593080068.0966] device (wlp2s0): link timed out.
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.0993] device (wlp2s0): state change: activated -> failed (reason 'ssid-not-found') [100 120 53]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1022] manager: NetworkManager state is now CONNECTED_LOCAL
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1023] manager: NetworkManager state is now DISCONNECTED
+Jun 25 13:14:28 bla-X411UA whoopsie[1160]: [13:14:28] offline
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <warn>  [1593080068.1375] device (wlp2s0): Activation: failed for connection 'AVIAD2.4'
+Jun 25 13:14:28 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1418] device (wlp2s0): state change: failed -> disconnected (reason 'none') [120 30 0]
+Jun 25 13:14:28 bla-X411UA kernel: [217533.267403] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:d9e4:3cd7:d917:209c.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv6 no longer relevant for mDNS.
+Jun 25 13:14:28 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 25 13:14:28 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 25 13:14:28 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 25 13:14:28 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: new request (1 scripts)
+Jun 25 13:14:28 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: start running ordered scripts...
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1790] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 23119
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1791] dhcp4 (wlp2s0): state changed bound -> done
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1812] dhcp6 (wlp2s0): canceled DHCP transaction
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Withdrawing address record for 192.168.1.118 on wlp2s0.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Jun 25 13:14:28 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1829 was not found when attempting to remove it
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1870] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 13:14:28 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 13:14:28 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2018] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 13:14:28 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 13:14:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: Reject scan trigger since one is already pending
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2482] policy: auto-activating connection 'AVIAD2.4'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2505] device (wlp2s0): Activation: starting connection 'AVIAD2.4' (fb51c7d2-f4f3-48af-a2bf-33e18cd83329)
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2507] device (wlp2s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2509] manager: NetworkManager state is now CONNECTING
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2515] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2521] device (wlp2s0): Activation: (wifi) access point 'AVIAD2.4' has security, but secrets are required.
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2521] device (wlp2s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2590] device (wlp2s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2595] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2598] device (wlp2s0): Activation: (wifi) connection 'AVIAD2.4' has security, and secrets exist.  No new secrets needed.
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2598] Config: added 'ssid' value 'AVIAD2.4'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2599] Config: added 'scan_ssid' value '1'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2599] Config: added 'key_mgmt' value 'WPA-PSK'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2599] Config: added 'auth_alg' value 'OPEN'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2600] Config: added 'psk' value '<omitted>'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2618] sup-iface[0x1d151f0,wlp2s0]: config: set interface ap_scan to 1
+Jun 25 13:14:30 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 25 13:14:30 bla-X411UA kernel: [217535.297252] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 25 13:14:30 bla-X411UA NetworkManager[901]: <info>  [1593080070.2316] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Jun 25 13:14:30 bla-X411UA kernel: [217535.355448] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 13:14:30 bla-X411UA kernel: [217535.990055] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 2/3)
+Jun 25 13:14:31 bla-X411UA kernel: [217536.981962] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 3/3)
+Jun 25 13:14:32 bla-X411UA kernel: [217537.973848] wlp2s0: authentication with a4:91:b1:c9:e1:6d timed out
+Jun 25 13:14:32 bla-X411UA NetworkManager[901]: <info>  [1593080072.8718] device (wlp2s0): supplicant interface state: authenticating -> disconnected
+Jun 25 13:14:33 bla-X411UA whoopsie[1160]: [13:14:33] Cannot reach: https://daisy.ubuntu.com
+Jun 25 13:14:33 bla-X411UA whoopsie[1160]: [13:14:33] Cannot reach: https://daisy.ubuer: req:1 'down' [wlp2s0]: new request (1 scripts)
+Jun 25 13:14:28 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: start running ordered scripts...
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1790] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 23119
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1791] dhcp4 (wlp2s0): state changed bound -> done
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1812] dhcp6 (wlp2s0): canceled DHCP transaction
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Withdrawing address record for 192.168.1.118 on wlp2s0.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 25 13:14:28 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Jun 25 13:14:28 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1829 was not found when attempting to remove it
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.1870] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 13:14:28 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 13:14:28 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2018] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 13:14:28 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 13:14:28 bla-X411UA wpa_supplicant[1149]: wlp2s0: Reject scan trigger since one is already pending
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2482] policy: auto-activating connection 'AVIAD2.4'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2505] device (wlp2s0): Activation: starting connection 'AVIAD2.4' (fb51c7d2-f4f3-48af-a2bf-33e18cd83329)
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2507] device (wlp2s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2509] manager: NetworkManager state is now CONNECTING
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2515] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2521] device (wlp2s0): Activation: (wifi) access point 'AVIAD2.4' has security, but secrets are required.
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2521] device (wlp2s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2590] device (wlp2s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2595] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2598] device (wlp2s0): Activation: (wifi) connection 'AVIAD2.4' has security, and secrets exist.  No new secrets needed.
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2598] Config: added 'ssid' value 'AVIAD2.4'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2599] Config: added 'scan_ssid' value '1'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2599] Config: added 'key_mgmt' value 'WPA-PSK'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2599] Config: added 'auth_alg' value 'OPEN'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2600] Config: added 'psk' value '<omitted>'
+Jun 25 13:14:28 bla-X411UA NetworkManager[901]: <info>  [1593080068.2618] sup-iface[0x1d151f0,wlp2s0]: config: set interface ap_scan to 1
+Jun 25 13:14:30 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 25 13:14:30 bla-X411UA kernel: [217535.297252] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 25 13:14:30 bla-X411UA NetworkManager[901]: <info>  [1593080070.2316] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Jun 25 13:14:30 bla-X411UA kernel: [217535.355448] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 13:14:30 bla-X411UA kernel: [217535.990055] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 2/3)
+Jun 25 13:14:31 bla-X411UA kernel: [217536.981962] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 3/3)
+Jun 25 13:14:32 bla-X411UA kernel: [217537.973848] wlp2s0: authentication with a4:91:b1:c9:e1:6d timed out
+Jun 25 13:14:32 bla-X411UA NetworkManager[901]: <info>  [1593080072.8718] device (wlp2s0): supplicant interface state: authenticating -> disconnected
+Jun 25 13:14:33 bla-X411UA whoopsie[1160]: [13:14:33] Cannot reach: https://daisy.ubuntu.com
+Jun 25 13:14:33 bla-X411UA whoopsie[1160]: [13:14:33] Cannot reach: https://daisy.ubuntu.com
+Jun 25 13:14:33 bla-X411UA NetworkManager[901]: <info>  [1593080073.8729] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Jun 25 13:14:38 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 25 13:14:38 bla-X411UA kernel: [217543.800931] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 25 13:14:38 bla-X411UA kernel: [217543.836953] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 13:14:38 bla-X411UA NetworkManager[901]: <info>  [1593080078.7142] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Jun 25 13:14:39 bla-X411UA kernel: [217544.981097] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 2/3)
+Jun 25 13:14:40 bla-X411UA kernel: [217545.972944] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 3/3)
+Jun 25 13:14:41 bla-X411UA wpa_supplicant[1149]: wlp2s0: Trying to associate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 25 13:14:41 bla-X411UA kernel: [217546.831818] wlp2s0: authenticated
+Jun 25 13:14:41 bla-X411UA kernel: [217546.832859] wlp2s0: associate with a4:91:b1:c9:e1:6d (try 1/3)
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7142] device (wlp2s0): supplicant interface state: authenticating -> associating
+Jun 25 13:14:41 bla-X411UA kernel: [217546.843815] wlp2s0: RX AssocResp from a4:91:b1:c9:e1:6d (capab=0x1411 status=0 aid=2)
+Jun 25 13:14:41 bla-X411UA wpa_supplicant[1149]: wlp2s0: Associated with a4:91:b1:c9:e1:6d
+Jun 25 13:14:41 bla-X411UA kernel: [217546.845800] wlp2s0: associated
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7283] device (wlp2s0): supplicant interface state: associating -> associated
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7352] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Jun 25 13:14:41 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Key negotiation completed with a4:91:b1:c9:e1:6d [PTK=CCMP GTK=CCMP]
+Jun 25 13:14:41 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to a4:91:b1:c9:e1:6d completed [id=0 id_str=]
+Jun 25 13:14:41 bla-X411UA kernel: [217546.867243] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7491] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7491] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'AVIAD2.4'.
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7492] device (wlp2s0): state change: config -> ip-config (reason 'none') [50 70 0]
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7502] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 25 13:14:41 bla-X411UA NetworkManager[901]: <info>  [1593080081.7556] dhcp4 (wlp2s0): dhclient started with pid 28151
+Jun 25 13:14:41 bla-X411UA dhclient[28151]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 255.255.255.255 port 67 (xid=0x43b3130a)
+Jun 25 13:14:41 bla-X411UA dhclient[28151]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 25 13:14:4: Writing DNS information to /sbin/resolvconf
+Jun 25 13:14:44 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 13:14:44 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 25 13:14:44 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 13:14:44 bla-X411UA dhclient[28329]: XMT: Info-Request on wlp2s0, interval 930ms.
+Jun 25 13:14:44 bla-X411UA dhclient[28329]: RCV: Reply message on wlp2s0 from fe80::a691:b1ff:fec9:e16c.
+Jun 25 13:14:44 bla-X411UA NetworkManager[901]: <info>  [1593080084.3946]   nameserver 'fd09:c43d:4323::1'
+Jun 25 13:14:44 bla-X411UA NetworkManager[901]: <info>  [1593080084.3946]   domain search 'lan.'
+Jun 25 13:14:44 bla-X411UA NetworkManager[901]: <info>  [1593080084.3947] dhcp6 (wlp2s0): state changed unknown -> bound
+Jun 25 13:14:44 bla-X411UA NetworkManager[901]: <info>  [1593080084.3966] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 13:14:44 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 13:14:44 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 25 13:14:44 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 13:14:44 bla-X411UA NetworkManager[901]: <info>  [1593080084.4064] dhcp6 (wlp2s0): client pid 28329 exited with status 0
+Jun 25 13:14:44 bla-X411UA NetworkManager[901]: <info>  [1593080084.4064] dhcp6 (wlp2s0): state changed bound -> done
+Jun 25 13:14:44 bla-X411UA nm-dispatcher: req:2 'dhcp6-change' [wlp2s0]: new request (1 scripts)
+Jun 25 13:14:44 bla-X411UA nm-dispatcher: req:2 'dhcp6-change' [wlp2s0]: start running ordered scripts...
+Jun 25 13:14:45 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 13:14:45 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 25 13:14:45 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 25 13:14:45 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 25 13:14:45 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 25 13:17:01 bla-X411UA CRON[28402]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 13:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 13:37:12 bla-X411UA wpa_supplicant[1149]: message repeated 2 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 13:47:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 14:07:12 bla-X411UA wpa_supplicant[1149]: message repeated 2 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 14:17:01 bla-X411UA CRON[29305]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 14:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 14:47:12 bla-X411UA wpa_supplicant[1149]: message repeated 3 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 14:47:47 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 25 14:57:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 15:07:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 15:17:01 bla-X411UA CRON[30134]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 15:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 15:37:12 bla-X411UA wpa_supplicant[1149]: message repeated 2 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 15:47:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 16:07:12 bla-X411UA wpa_supplicant[1149]: message repeated 2 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 16:17:01 bla-X411UA CRON[31107]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 16:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 16:24:16 bla-X411UA gnome-session[1594]: Nautilus-Share-Message: Called "net usershare info" but it failed: Failed to execute child process "net" (No such file or directory)
+Jun 25 16:24:31 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 16:27:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 17:07:12 bla-X411UA wpa_supplicant[1149]: message repeated 4 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 17:17:01 bla-X411UA CRON[31873]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 17:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 17:24:02 bla-X411UA systemd[1]: Starting Message of the Day...
+Jun 25 17:24:02 bla-X411UA systemd[1]: Started Message of the Day.
+Jun 25 17:27:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 17:57:12 bla-X411UA wpa_supplicant[1149]: message repeated 3 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 25 18:00:11 bla-X411UA dhclient[28151]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 192.168.1.1 port 67 (xid=0x43b3130a)
+Jun 25 18:00:11 bla-X411UA dhclient[28151]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4541]   address 192.168.1.118
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4554]   plen 24 (255.255.255.0)
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4556]   gateway 192.168.1.1
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4556]   server identifier 192.168.1.1
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4557]   lease time 43200
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4558]   hostname 'bla-X411UA'
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4558]   nameserver '192.168.1.1'
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4558]   domain name 'lan'
+Jun 25 18:00:11 bla-X411UA NetworkManager[901]: <info>  [1593097211.4571] dhcp4 (wlp2s0): state changed bound -> bound
+Jun 25 18:00:11 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 25 18:00:11 bla-X411UA dhclient[28151]: bound to 192.168.1.118 -- renewal in 15399 seconds.
+Jun 25 18:00:11 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 25 18:00:11 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 25 18:00:11 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 25 18:00:11 bla-X411UA nm-dispatcher: req:1 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 25 18:00:11 bla-X411UA nm-dispatcher: req:1 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 25 18:07:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 18:12:45 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 18:13:20 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 18:13:54 bla-X411UA snapd[908]: storehelpers.go:438: cannot refresh: snap has no updates available: "core18", "snapd", "zoom-client"
+Jun 25 18:13:54 bla-X411UA snapd[908]: autorefresh.go:397: auto-refresh: all snaps are up-to-date
+Jun 25 18:14:38 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 18:15:10 bla-X411UA org.gnome.zeitgeist.SimpleIndexer[1457]: ** (zeitgeist-fts:2195): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Jun 25 18:16:39 bla-X411UA gnome-session[1594]: (nautilus:1794): GLib-CRITICAL **: Source ID 801828 was not found when attempting to remove it
+Jun 25 18:17:01 bla-X411UA CRON[533]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 25 18:17:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 18:27:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 18:37:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 18:40:59 bla-X411UA rtkit-daemon[1250]: Supervising 10 threads of 8 processes of 1 users.
+Jun 25 18:40:59 bla-X411UA rtkit-daemon[1250]: message repeated 3 times: [ Supervising 10 threads of 8 processes of 1 users.]
+Jun 25 18:40:59 bla-X411UA rtkit-daemon[1250]: Successfully made thread 937 of process 30632 (n/a) owned by '1000' RT at priority 10.
+Jun 25 18:40:59 bla-X411UA rtkit-daemon[1250]: Supervising 11 threads of 9 processes of 1 users.
+Jun 25 18:47:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 18:57:12 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.2530] manager: sleep requested (sleeping: no  enabled: yes)
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.2531] manager: sleeping...
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.2541] manager: NetworkManager state is now ASLEEP
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.2584] device (wlp2s0): state change: activated -> deactivating (reason 'sleeping') [100 110 37]
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.2733] device (wlp2s0): state change: deactivating -> disconnected (reason 'sleeping') [110 30 37]
+Jun 25 19:01:00 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1894 was not found when attempting to remove it
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.6793] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 28151
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.6793] dhcp4 (wlp2s0): state changed bound -> done
+Jun 25 19:01:00 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.
+Jun 25 19:01:00 bla-X411UA NetworkManager[901]: <info>  [1593100860.6900] dhcp6 (wlp2s0): canceled DHCP transaction
+Jun 25 19:01:00 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.
+Jun 25 19:01:00 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 25 19:01:00 bla-X411UA kernel: [238325.032270] wlp2s0: deauthenticating from a4:91:b1:c9:e1:6d by local choice (Reason: 3=DEAUTH_LEAVING)
+Jun 25 19:01:01 bla-X411UA kernel: [238326.207817] acpi INT3400:00: Unsupported event [0x86]
+Jun 25 19:01:03 bla-X411UA kernel: [238328.159564] ath10k_pci 0000:02:00.0: failed to install key for vdev 0 peer a4:91:b1:c9:e1:6d: -110
+Jun 25 19:01:03 bla-X411UA kernel: [238328.159570] wlp2s0: failed to remove key (0, a4:91:b1:c9:e1:6d) from hardware (-110)
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv6 no longer relevant for mDNS.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Withdrawing address record for 192.168.1.118 on wlp2s0.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 25 19:01:03 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Jun 25 19:01:03 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=a4:91:b1:c9:e1:6d reason=3 locally_generated=1
+Jun 25 19:01:03 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Jun 25 19:01:03 bla-X411UA NetworkManager[901]: <info>  [1593100863.8608] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 19:01:03 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 19:01:03 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 25 19:01:03 bla-X411UA NetworkManager[901]: <info>  [1593100863.8817] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 25 19:01:03 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 25 19:01:03 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 25 19:01:03 bla-X411UA NetworkManager[901]: <warn>  [1593100863.9365] sup-iface[0x1d151f0,wlp2s0]: connection disconnected (reason -3)
+Jun 25 19:01:03 bla-X411UA NetworkManager[901]: <info>  [1593100863.9366] device (wlp2s0): supplicant interface state: completed -> disconnected
+Jun 25 19:01:03 bla-X411UA NetworkManager[901]: <info>  [1593100863.9376] device (wlp2s0): state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+Jun 25 19:01:03 bla-X411UA wpa_supplicant[1149]: nl80211: deinit ifname=p2p-dev-wlp2s0 disabled_11b_rates=0
+Jun 25 19:01:03 bla-X411UA systemd[1]: Reached target Sleep.
+Jun 25 19:01:03 bla-X411UA systemd[1]: Starting Suspend...
+Jun 25 19:01:03 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 25 19:01:03 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 25 19:01:03 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 25 19:01:03 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: new request (1 scripts)
+Jun 25 19:01:03 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: start running ordered scripts...
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]: ERROR:dbus.connection:Exception in handler for D-Bus signal:
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]: Traceback (most recent call last):
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/connection.py", line 230, in maybe_handle_message
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     self._handler(*args, **kwargs)
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/AlertWatcher.py", line 78, in _on_network_state_changed
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     self._update_3g_state()
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/AlertWatcher.py", line 83, in _update_3g_state
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     on_3g = nm.is_active_connection_gsm_or_cdma()
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/roam.py", line 172, in is_active_connection_gsm_or_cdma
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     active, self.NM_DBUS_IFACE + ".Connection.Active", 'Default')
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/roam.py", line 162, in get_dbus_property
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     property = props.Get(interface, property)
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 70, in __call__
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     return self._proxy_method(*args, **keywords)
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 145, in __call__
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     **keywords)
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/connection.py", line 651, in call_blocking
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]:     message, timeout)
+Jun 25 19:01:04 bla-X411UA gnome-session[1594]: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/ActiveConnection/25
+Jun 25 19:01:04 bla-X411UA wpa_supplicant[1149]: nl80211: deinit ifname=wlp2s0 disabled_11b_rates=0
+Jun 25 19:01:08 bla-X411UA whoopsie[1160]: [19:01:08] Cannot reach: https://daisy.ubuntu.com
+Jun 25 19:01:08 bla-X411UA whoopsie[1160]: [19:01:08] offline
+Jun 25 19:01:08 bla-X411UA whoopsie[1160]: [19:01:08] Cannot reach: https://daisy.ubuntu.com
+Jun 25 19:01:13 bla-X411UA systemd-sleep[1306]: Selected interface 'p2p-dev-wlp2s0'
+Jun 25 19:01:13 bla-X411UA systemd-sleep[1306]: 'SUSPEND' command timed out.
+Jun 25 19:01:13 bla-X411UA systemd-sleep[1309]: /lib/systemd/system-sleep/wpasupplicant failed with error code 254.
+Jun 25 19:01:13 bla-X411UA systemd-sleep[1306]: Suspending system...
+Jun 25 19:01:13 bla-X411UA kernel: [238338.316063] PM: suspend entry (deep)
+Jun 25 19:01:14 bla-X411UA kernel: [238338.316070] PM: Syncing filesystems ... done.
+Jun 26 10:46:37 bla-X411UA kernel: [238338.346943] Freezing user space processes ... (elapsed 0.003 seconds) done.
+Jun 26 10:46:37 bla-X411UA kernel: [238338.350245] OOM killer disabled.
+Jun 26 10:46:37 bla-X411UA kernel: [238338.350245] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jun 26 10:46:37 bla-X411UA kernel: [238338.351996] Suspending console(s) (use no_console_suspend to debug)
+Jun 26 10:46:37 bla-X411UA kernel: [238338.378720] sd 1:0:0:0: [sda] Synchronizing SCSI cache
+Jun 26 10:46:37 bla-X411UA kernel: [238338.378935] sd 1:0:0:0: [sda] Stopping disk
+Jun 26 10:46:37 bla-X411UA kernel: [238338.463409] ACPI: EC: interrupt blocked
+Jun 26 10:46:37 bla-X411UA kernel: [238338.507455] ACPI: Preparing to enter system sleep state S3
+Jun 26 10:46:37 bla-X411UA kernel: [238338.511234] ACPI: EC: event blocked
+Jun 26 10:46:37 bla-X411UA kernel: [238338.511236] ACPI: EC: EC stopped
+Jun 26 10:46:37 bla-X411UA kernel: [238338.511237] PM: Saving platform NVS memory
+Jun 26 10:46:37 bla-X411UA kernel: [238338.511248] Disabling non-boot CPUs ...
+Jun 26 10:46:37 bla-X411UA kernel: [238338.528290] smpboot: CPU 1 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [238338.552261] smpboot: CPU 2 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [238338.576256] smpboot: CPU 3 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [238338.599566] irq_migrate_all_off_this_cpu: 5 callbacks suppressed
+Jun 26 10:46:37 bla-X411UA kernel: [238338.599568] IRQ 125: no longer affine to CPU4
+Jun 26 10:46:37 bla-X411UA kernel: [238338.601348] smpboot: CPU 4 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [238338.623061] IRQ 124: no longer affine to CPU5
+Jun 26 10:46:37 bla-X411UA kernel: [238338.623070] IRQ 127: no longer affine to CPU5
+Jun 26 10:46:37 bla-X411UA kernel: [238338.624093] smpboot: CPU 5 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [238338.647064] IRQ 122: no longer affine to CPU6
+Jun 26 10:46:37 bla-X411UA kernel: [238338.647075] IRQ 126: no longer affine to CPU6
+Jun 26 10:46:37 bla-X411UA kernel: [238338.648098] smpboot: CPU 6 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [238338.670990] IRQ 1: no longer affine to CPU7
+Jun 26 10:46:37 bla-X411UA kernel: [238338.671000] IRQ 8: no longer affine to CPU7
+Jun 26 10:46:37 bla-X411UA kernel: [238338.671007] IRQ 9: no longer affine to CPU7
+Jun 26 10:46:37 bla-X411UA kernel: [238338.671015] IRQ 14: no longer affine to CPU7
+Jun 26 10:46:37 bla-X411UA kernel: [238338.671023] IRQ 16: no longer affine to CPU7
+Jun 26 10:46:37 bla-X411UA kernel: [238338.672074] smpboot: CPU 7 is now offline
+Jun 26 10:46:37 bla-X411UA kernel: [202904.485774] [Firmware Bug]: TSC ADJUST differs: CPU0 0 --> -16450724. Restoring
+Jun 26 10:46:37 bla-X411UA kernel: [238338.675423] ACPI: Low-level resume complete
+Jun 26 10:46:37 bla-X411UA kernel: [238338.675535] ACPI: EC: EC started
+Jun 26 10:46:37 bla-X411UA kernel: [238338.675535] PM: Restoring platform NVS memory
+Jun 26 10:46:37 bla-X411UA kernel: [238338.678102] Enabling non-boot CPUs ...
+Jun 26 10:46:37 bla-X411UA kernel: [238338.678166] x86: Booting SMP configuration:
+Jun 26 10:46:37 bla-X411UA kernel: [238338.678167] smpboot: Booting Node 0 Processor 1 APIC 0x2
+Jun 26 10:46:37 bla-X411UA kernel: [238338.678511] microcode: sig=0x806ea, pf=0x80, revision=0x96
+Jun 26 10:46:37 bla-X411UA kernel: [238338.680306]  cache: parent cpu1 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.680482] CPU1 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.680510] smpboot: Booting Node 0 Processor 2 APIC 0x4
+Jun 26 10:46:37 bla-X411UA kernel: [238338.682644]  cache: parent cpu2 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.682832] CPU2 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.682860] smpboot: Booting Node 0 Processor 3 APIC 0x6
+Jun 26 10:46:37 bla-X411UA kernel: [238338.685002]  cache: parent cpu3 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.685200] CPU3 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.685227] smpboot: Booting Node 0 Processor 4 APIC 0x1
+Jun 26 10:46:37 bla-X411UA kernel: [238338.685653] microcode: sig=0x806ea, pf=0x80, revision=0xd6
+Jun 26 10:46:37 bla-X411UA kernel: [238338.685779]  cache: parent cpu4 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.686219] CPU4 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.686244] smpboot: Booting Node 0 Processor 5 APIC 0x3
+Jun 26 10:46:37 bla-X411UA kernel: [238338.686710]  cache: parent cpu5 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.686929] CPU5 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.686983] smpboot: Booting Node 0 Processor 6 APIC 0x5
+Jun 26 10:46:37 bla-X411UA kernel: [238338.687469]  cache: parent cpu6 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.687693] CPU6 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.687718] smpboot: Booting Node 0 Processor 7 APIC 0x7
+Jun 26 10:46:37 bla-X411UA kernel: [238338.688214]  cache: parent cpu7 should not be sleeping
+Jun 26 10:46:37 bla-X411UA kernel: [238338.688462] CPU7 is up
+Jun 26 10:46:37 bla-X411UA kernel: [238338.695704] ACPI: Waking up from system sleep state S3
+Jun 26 10:46:37 bla-X411UA kernel: [238338.704740] ACPI: EC: interrupt unblocked
+Jun 26 10:46:37 bla-X411UA kernel: [238338.750237] ACPI: EC: event unblocked
+Jun 26 10:46:37 bla-X411UA kernel: [238338.750920] usb usb1: root hub lost power or was reset
+Jun 26 10:46:37 bla-X411UA kernel: [238338.750923] usb usb2: root hub lost power or was reset
+Jun 26 10:46:37 bla-X411UA kernel: [238338.751389] sd 1:0:0:0: [sda] Starting disk
+Jun 26 10:46:37 bla-X411UA kernel: [238338.755475] rtc_cmos 00:01: Alarms can be up to one month in the future
+Jun 26 10:46:37 bla-X411UA kernel: [238339.065430] ata1: SATA link down (SStatus 4 SControl 300)
+Jun 26 10:46:37 bla-X411UA kernel: [238339.070606] ata2: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Jun 26 10:46:37 bla-X411UA kernel: [238339.072450] ata2.00: ACPI cmd ef/10:06:00:00:00:00 (SET FEATURES) succeeded
+Jun 26 10:46:37 bla-X411UA kernel: [238339.072456] ata2.00: ACPI cmd f5/00:00:00:00:00:00 (SECURITY FREEZE LOCK) filtered out
+Jun 26 10:46:37 bla-X411UA kernel: [238339.072459] ata2.00: ACPI cmd b1/c1:00:00:00:00:00 (DEVICE CONFIGURATION OVERLAY) filtered out
+Jun 26 10:46:37 bla-X411UA kernel: [238339.074956] ata2.00: ACPI cmd ef/10:06:00:00:00:00 (SET FEATURES) succeeded
+Jun 26 10:46:37 bla-X411UA kernel: [238339.074961] ata2.00: ACPI cmd f5/00:00:00:00:00:00 (SECURITY FREEZE LOCK) filtered out
+Jun 26 10:46:37 bla-X411UA kernel: [238339.074965] ata2.00: ACPI cmd b1/c1:00:00:00:00:00 (DEVICE CONFIGURATION OVERLAY) filtered out
+Jun 26 10:46:37 bla-X411UA kernel: [238339.075311] ata2.00: configured for UDMA/133
+Jun 26 10:46:37 bla-X411UA kernel: [238339.106807] usb 1-6: reset high-speed USB device number 3 using xhci_hcd
+Jun 26 10:46:37 bla-X411UA kernel: [238339.382732] usb 1-8: reset full-speed USB device number 4 using xhci_hcd
+Jun 26 10:46:37 bla-X411UA kernel: [238339.658711] usb 1-1: reset full-speed USB device number 2 using xhci_hcd
+Jun 26 10:46:37 bla-X411UA kernel: [238339.814429] OOM killer enabled.
+Jun 26 10:46:37 bla-X411UA kernel: [238339.814431] Restarting tasks ... 
+Jun 26 10:46:37 bla-X411UA kernel: [238339.819485] [drm] RC6 on
+Jun 26 10:46:37 bla-X411UA kernel: [238339.823238] done.
+Jun 26 10:46:37 bla-X411UA kernel: [238339.834308] PM: suspend exit
+Jun 26 10:46:37 bla-X411UA kernel: [238339.871345] Bluetooth: hci0: using rampatch file: qca/rampatch_usb_00000302.bin
+Jun 26 10:46:37 bla-X411UA kernel: [238339.871349] Bluetooth: hci0: QCA: patch rome 0x302 build 0x3e8, firmware rome 0x302 build 0x111
+Jun 26 10:46:37 bla-X411UA kernel: [238339.944875] Bluetooth: hci0: using NVM file: qca/nvm_usb_00000302.bin
+Jun 26 10:46:37 bla-X411UA systemd[1]: Time has been changed
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jun 26 10:46:37 bla-X411UA systemd[1361]: Time has been changed
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]: System resumed.
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1409]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jun 26 10:46:37 bla-X411UA systemd[1]: bluetooth.target: Unit not needed anymore. Stopping.
+Jun 26 10:46:37 bla-X411UA systemd[1]: Stopped target Bluetooth.
+Jun 26 10:46:37 bla-X411UA systemd[1]: Starting Message of the Day...
+Jun 26 10:46:37 bla-X411UA systemd[1]: Starting Load/Save RF Kill Switch Status...
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]: /dev/sda:
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]:  setting Advanced Power Management level to 0x80 (128)
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]:  APM_level#011= 128
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]: /dev/sda:
+Jun 26 10:46:37 bla-X411UA systemd-sleep[1306]:  setting standby to 36 (3 minutes)
+Jun 26 10:46:37 bla-X411UA systemd[1]: Started Suspend.
+Jun 26 10:46:37 bla-X411UA systemd[1]: sleep.target: Unit not needed anymore. Stopping.
+Jun 26 10:46:37 bla-X411UA kernel: [238340.235219] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 26 10:46:37 bla-X411UA systemd[1]: Stopped target Sleep.
+Jun 26 10:46:37 bla-X411UA systemd[1]: Reached target Suspend.
+Jun 26 10:46:37 bla-X411UA systemd[1]: suspend.target: Unit is bound to inactive unit systemd-suspend.service. Stopping, too.
+Jun 26 10:46:37 bla-X411UA systemd[1]: Stopped target Suspend.
+Jun 26 10:46:37 bla-X411UA systemd[1]: Started Run anacron jobs at resume.
+Jun 26 10:46:37 bla-X411UA NetworkManager[901]: <info>  [1593157597.5588] manager: wake requested (sleeping: yes  enabled: yes)
+Jun 26 10:46:37 bla-X411UA NetworkManager[901]: <info>  [1593157597.5588] manager: waking up...
+Jun 26 10:46:37 bla-X411UA NetworkManager[901]: <info>  [1593157597.5589] device (wlp2s0): state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Endpoint unregistered: sender=:1.64 path=/MediaEndpoint/A2DPSource
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Endpoint unregistered: sender=:1.64 path=/MediaEndpoint/A2DPSink
+Jun 26 10:46:37 bla-X411UA systemd[1]: Started Message of the Day.
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Failed to obtain handles for "Service Changed" characteristic
+Jun 26 10:46:37 bla-X411UA systemd[1]: Reached target Bluetooth.
+Jun 26 10:46:37 bla-X411UA systemd[1]: Started Load/Save RF Kill Switch Status.
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Error adding Link Loss service
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: message repeated 2 times: [ Not enough free handles to register service]
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Current Time Service could not be registered
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: gatt-time-server: Input/output error (5)
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: Sap driver initialization failed.
+Jun 26 10:46:37 bla-X411UA bluetoothd[848]: sap-server: Operation not permitted (1)
+Jun 26 10:46:38 bla-X411UA bluetoothd[848]: Endpoint registered: sender=:1.64 path=/MediaEndpoint/A2DPSource
+Jun 26 10:46:38 bla-X411UA bluetoothd[848]: Endpoint registered: sender=:1.64 path=/MediaEndpoint/A2DPSink
+Jun 26 10:46:38 bla-X411UA NetworkManager[901]: <info>  [1593157598.2677] manager: NetworkManager state is now DISCONNECTED
+Jun 26 10:46:38 bla-X411UA kernel: [238340.942715] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 26 10:46:38 bla-X411UA wpa_supplicant[1149]: dbus: wpa_dbus_get_object_properties: failed to get object properties: (none) none
+Jun 26 10:46:38 bla-X411UA wpa_supplicant[1149]: dbus: Failed to construct signal
+Jun 26 10:46:38 bla-X411UA wpa_supplicant[1149]: Could not read interface p2p-dev-wlp2s0 flags: No such device
+Jun 26 10:46:38 bla-X411UA NetworkManager[901]: <info>  [1593157598.4098] device (wlp2s0): supplicant interface state: starting -> ready
+Jun 26 10:46:38 bla-X411UA NetworkManager[901]: <info>  [1593157598.4100] device (wlp2s0): state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+Jun 26 10:46:38 bla-X411UA kernel: [238341.086325] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 26 10:46:39 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 26 10:46:39 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2263] device (wlp2s0): supplicant interface state: ready -> inactive
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2330] policy: auto-activating connection 'AVIAD2.4'
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2345] device (wlp2s0): Activation: starting connection 'AVIAD2.4' (fb51c7d2-f4f3-48af-a2bf-33e18cd83329)
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2347] device (wlp2s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2348] manager: NetworkManager state is now CONNECTING
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2354] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2356] device (wlp2s0): Activation: (wifi) access point 'AVIAD2.4' has security, but secrets are required.
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2357] device (wlp2s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2407] device (wlp2s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2411] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2414] device (wlp2s0): Activation: (wifi) connection 'AVIAD2.4' has security, and secrets exist.  No new secrets needed.
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2415] Config: added 'ssid' value 'AVIAD2.4'
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2415] Config: added 'scan_ssid' value '1'
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2415] Config: added 'key_mgmt' value 'WPA-PSK'
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2415] Config: added 'auth_alg' value 'OPEN'
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2416] Config: added 'psk' value '<omitted>'
+Jun 26 10:46:43 bla-X411UA NetworkManager[901]: <info>  [1593157603.2472] sup-iface[0x1cb0200,wlp2s0]: config: set interface ap_scan to 1
+Jun 26 10:46:43 bla-X411UA gnome-session[1594]: (nm-applet:1793): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Jun 26 10:46:43 bla-X411UA gnome-session[1594]: message repeated 11 times: [ (nm-applet:1793): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed]
+Jun 26 10:46:44 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 26 10:46:48 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 26 10:46:48 bla-X411UA kernel: [238350.711382] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.0767] device (wlp2s0): supplicant interface state: inactive -> authenticating
+Jun 26 10:46:48 bla-X411UA kernel: [238350.750944] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 26 10:46:48 bla-X411UA wpa_supplicant[1149]: wlp2s0: Trying to associate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 26 10:46:48 bla-X411UA kernel: [238350.753702] wlp2s0: authenticated
+Jun 26 10:46:48 bla-X411UA kernel: [238350.757033] wlp2s0: associate with a4:91:b1:c9:e1:6d (try 1/3)
+Jun 26 10:46:48 bla-X411UA wpa_supplicant[1149]: wlp2s0: Associated with a4:91:b1:c9:e1:6d
+Jun 26 10:46:48 bla-X411UA kernel: [238350.765419] wlp2s0: RX AssocResp from a4:91:b1:c9:e1:6d (capab=0x1411 status=0 aid=1)
+Jun 26 10:46:48 bla-X411UA kernel: [238350.767265] wlp2s0: associated
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.0958] device (wlp2s0): supplicant interface state: authenticating -> associating
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1002] device (wlp2s0): supplicant interface state: associating -> associated
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1056] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Jun 26 10:46:48 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Key negotiation completed with a4:91:b1:c9:e1:6d [PTK=CCMP GTK=CCMP]
+Jun 26 10:46:48 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to a4:91:b1:c9:e1:6d completed [id=0 id_str=]
+Jun 26 10:46:48 bla-X411UA kernel: [238350.798310] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1286] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1287] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'AVIAD2.4'.
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1288] device (wlp2s0): state change: config -> ip-config (reason 'none') [50 70 0]
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1299] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 26 10:46:48 bla-X411UA NetworkManager[901]: <info>  [1593157608.1371] dhcp4 (wlp2s0): dhclient started with pid 1605
+Jun 26 10:46:48 bla-X411UA dhclient[1605]: DHCPDISCOVER on wlp2s0 to 255.255.255.255 port 67 interval 3 (xid=0x141d320b)
+Jun 26 10:46:50 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 26 10:46:50 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv6 for mDNS.
+Jun 26 10:46:50 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 26 10:46:50 bla-X411UA NetworkManager[901]: <info>  [1593157610.7818] dhcp6 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 26 10:46:50 bla-X411UA NetworkManager[901]: <info>  [1593157610.7890] dhcp6 (wlp2s0): dhclient started with pid 1630
+Jun 26 10:46:51 bla-X411UA dhclient[1605]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 255.255.255.255 port 67 (xid=0xb321d14)
+Jun 26 10:46:51 bla-X411UA dhclient[1605]: DHCPOFFER of 192.168.1.118 from 192.168.1.1
+Jun 26 10:46:51 bla-X411UA dhclient[1605]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.4999]   address 192.168.1.118
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5000]   plen 24 (255.255.255.0)
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5000]   gateway 192.168.1.1
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5000]   server identifier 192.168.1.1
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5000]   lease time 43200
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5000]   hostname 'bla-X411UA'
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5000]   nameserver '192.168.1.1'
+Jun 26 10:46:51 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5001]   domain name 'lan'
+Jun 26 10:46:51 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv4 for mDNS.
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5001] dhcp4 (wlp2s0): state changed unknown -> bound
+Jun 26 10:46:51 bla-X411UA avahi-daemon[841]: Registering new address record for 192.168.1.118 on wlp2s0.IPv4.
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5040] device (wlp2s0): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Jun 26 10:46:51 bla-X411UA whoopsie[1160]: [10:46:51] Cannot reach: https://daisy.ubuntu.com
+Jun 26 10:46:51 bla-X411UA dhclient[1605]: bound to 192.168.1.118 -- renewal in 16326 seconds.
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5115] device (wlp2s0): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5120] device (wlp2s0): state change: secondaries -> activated (reason 'none') [90 100 0]
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5123] manager: NetworkManager state is now CONNECTED_LOCAL
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5159] manager: NetworkManager state is now CONNECTED_GLOBAL
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5160] policy: set 'AVIAD2.4' (wlp2s0) as default for IPv4 routing and DNS
+Jun 26 10:46:51 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.5162] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 26 10:46:51 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 26 10:46:51 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 26 10:46:51 bla-X411UA dhclient[1630]: XMT: Info-Request on wlp2s0, interval 950ms.
+Jun 26 10:46:51 bla-X411UA dhclient[1630]: RCV: Reply message on wlp2s0 from fe80::a691:b1ff:fec9:e16c.
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6448] device (wlp2s0): Activation: successful, device activated.
+Jun 26 10:46:51 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 26 10:46:51 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 26 10:46:51 bla-X411UA whoopsie[1160]: [10:46:51] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/26
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6591]   nameserver 'fd09:c43d:4323::1'
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6597]   domain search 'lan.'
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6616] dhcp6 (wlp2s0): state changed unknown -> bound
+Jun 26 10:46:51 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1894 was not found when attempting to remove it
+Jun 26 10:46:51 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6667] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 26 10:46:51 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 26 10:46:51 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 26 10:46:51 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 26 10:46:51 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 26 10:46:51 bla-X411UA nm-dispatcher: req:1 'up' [wlp2s0]: new request (1 scripts)
+Jun 26 10:46:51 bla-X411UA nm-dispatcher: req:1 'up' [wlp2s0]: start running ordered scripts...
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6812] dhcp6 (wlp2s0): client pid 1630 exited with status 0
+Jun 26 10:46:51 bla-X411UA NetworkManager[901]: <info>  [1593157611.6813] dhcp6 (wlp2s0): state changed bound -> done
+Jun 26 10:46:51 bla-X411UA whoopsie[1160]: [10:46:51] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/26
+Jun 26 10:46:51 bla-X411UA whoopsie[1160]: [10:46:51] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/26
+Jun 26 10:46:51 bla-X411UA nm-dispatcher: req:2 'dhcp6-change' [wlp2s0]: new request (1 scripts)
+Jun 26 10:46:51 bla-X411UA whoopsie[1160]: [10:46:51] online
+Jun 26 10:46:51 bla-X411UA systemd[1]: Reloading OpenBSD Secure Shell server.
+Jun 26 10:46:51 bla-X411UA systemd[1]: Reloaded OpenBSD Secure Shell server.
+Jun 26 10:46:51 bla-X411UA systemd[1]: Reloading OpenBSD Secure Shell server.
+Jun 26 10:46:51 bla-X411UA systemd[1]: Reloaded OpenBSD Secure Shell server.
+Jun 26 10:46:51 bla-X411UA nm-dispatcher: req:2 'dhcp6-change' [wlp2s0]: start running ordered scripts...
+Jun 26 10:46:52 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 26 10:46:52 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 26 10:46:52 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 26 10:46:52 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 26 10:46:52 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 26 10:46:53 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 26 10:46:54 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: 10:46:54 AptDaemon [INFO]: Initializing daemon
+Jun 26 10:46:54 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 26 10:46:54 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: 10:46:54 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 26 10:46:54 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: 10:46:54 AptDaemon [INFO]: UpdateCache() was called
+Jun 26 10:46:54 bla-X411UA AptDaemon.Trans: INFO: Queuing transaction /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: 10:46:54 AptDaemon.Trans [INFO]: Queuing transaction /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:46:54 bla-X411UA AptDaemon.Worker: INFO: Simulating trans: /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: 10:46:54 AptDaemon.Worker [INFO]: Simulating trans: /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:46:54 bla-X411UA AptDaemon.Worker: INFO: Processing transaction /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:46:54 bla-X411UA org.debian.apt[876]: 10:46:54 AptDaemon.Worker [INFO]: Processing transaction /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:46:59 bla-X411UA AptDaemon.Worker: INFO: Updating cache
+Jun 26 10:46:59 bla-X411UA org.debian.apt[876]: 10:46:59 AptDaemon.Worker [INFO]: Updating cache
+Jun 26 10:47:04 bla-X411UA gnome-session[1594]: (gnome-software:1787): Gs-WARNING **: failed to call gs_plugin_refresh on apt: apt transaction returned result exit-failed
+Jun 26 10:47:04 bla-X411UA AptDaemon.Worker: INFO: Finished transaction /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:47:04 bla-X411UA org.debian.apt[876]: 10:47:04 AptDaemon.Worker [INFO]: Finished transaction /org/debian/apt/transaction/e757dea7fa744947a4a28b91c561d1bf
+Jun 26 10:47:10 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7308] manager: sleep requested (sleeping: no  enabled: yes)
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7320] manager: sleeping...
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7320] manager: NetworkManager state is now ASLEEP
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7323] device (wlp2s0): state change: activated -> deactivating (reason 'sleeping') [100 110 37]
+Jun 26 10:49:19 bla-X411UA whoopsie[1160]: [10:49:19] offline
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7533] device (wlp2s0): state change: deactivating -> disconnected (reason 'sleeping') [110 30 37]
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 26 10:49:19 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1970 was not found when attempting to remove it
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 26 10:49:19 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv6 no longer relevant for mDNS.
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7865] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 1605
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7865] dhcp4 (wlp2s0): state changed bound -> done
+Jun 26 10:49:19 bla-X411UA NetworkManager[901]: <info>  [1593157759.7874] dhcp6 (wlp2s0): canceled DHCP transaction
+Jun 26 10:49:19 bla-X411UA kernel: [238502.449636] wlp2s0: deauthenticating from a4:91:b1:c9:e1:6d by local choice (Reason: 3=DEAUTH_LEAVING)
+Jun 26 10:49:22 bla-X411UA kernel: [238505.555193] ath10k_pci 0000:02:00.0: failed to install key for vdev 0 peer a4:91:b1:c9:e1:6d: -110
+Jun 26 10:49:22 bla-X411UA kernel: [238505.555197] wlp2s0: failed to remove key (0, a4:91:b1:c9:e1:6d) from hardware (-110)
+Jun 26 10:49:22 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-DISCONNECTED bssid=a4:91:b1:c9:e1:6d reason=3 locally_generated=1
+Jun 26 10:49:22 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=CORE type=WORLD
+Jun 26 10:49:22 bla-X411UA NetworkManager[901]: <info>  [1593157762.9037] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 26 10:49:22 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 26 10:49:22 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 26 10:49:22 bla-X411UA avahi-daemon[841]: Withdrawing address record for 192.168.1.118 on wlp2s0.
+Jun 26 10:49:22 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 26 10:49:22 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Jun 26 10:49:22 bla-X411UA NetworkManager[901]: <info>  [1593157762.9169] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 26 10:49:22 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 26 10:49:22 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 26 10:49:22 bla-X411UA NetworkManager[901]: <warn>  [1593157762.9641] sup-iface[0x1cb0200,wlp2s0]: connection disconnected (reason -3)
+Jun 26 10:49:22 bla-X411UA NetworkManager[901]: <info>  [1593157762.9643] device (wlp2s0): supplicant interface state: completed -> disconnected
+Jun 26 10:49:22 bla-X411UA NetworkManager[901]: <info>  [1593157762.9653] device (wlp2s0): state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+Jun 26 10:49:22 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 26 10:49:22 bla-X411UA wpa_supplicant[1149]: nl80211: deinit ifname=p2p-dev-wlp2s0 disabled_11b_rates=0
+Jun 26 10:49:22 bla-X411UA systemd[1]: Reached target Sleep.
+Jun 26 10:49:22 bla-X411UA systemd[1]: Starting Suspend...
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]: ERROR:dbus.connection:Exception in handler for D-Bus signal:
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]: Traceback (most recent call last):
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/connection.py", line 230, in maybe_handle_message
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     self._handler(*args, **kwargs)
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/AlertWatcher.py", line 78, in _on_network_state_changed
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     self._update_3g_state()
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/AlertWatcher.py", line 83, in _update_3g_state
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     on_3g = nm.is_active_connection_gsm_or_cdma()
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/roam.py", line 172, in is_active_connection_gsm_or_cdma
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     active, self.NM_DBUS_IFACE + ".Connection.Active", 'Default')
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/UpdateManager/Core/roam.py", line 162, in get_dbus_property
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     property = props.Get(interface, property)
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 70, in __call__
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     return self._proxy_method(*args, **keywords)
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/proxies.py", line 145, in __call__
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     **keywords)
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:   File "/usr/lib/python3/dist-packages/dbus/connection.py", line 651, in call_blocking
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]:     message, timeout)
+Jun 26 10:49:22 bla-X411UA gnome-session[1594]: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/ActiveConnection/26
+Jun 26 10:49:22 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 26 10:49:22 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 26 10:49:22 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: new request (1 scripts)
+Jun 26 10:49:22 bla-X411UA nm-dispatcher: req:1 'down' [wlp2s0]: start running ordered scripts...
+Jun 26 10:49:23 bla-X411UA wpa_supplicant[1149]: nl80211: deinit ifname=wlp2s0 disabled_11b_rates=0
+Jun 26 10:49:27 bla-X411UA whoopsie[1160]: [10:49:27] Cannot reach: https://daisy.ubuntu.com
+Jun 26 10:49:27 bla-X411UA whoopsie[1160]: [10:49:27] Cannot reach: https://daisy.ubuntu.com
+Jun 26 10:49:32 bla-X411UA systemd-sleep[2597]: Selected interface 'p2p-dev-wlp2s0'
+Jun 26 10:49:32 bla-X411UA systemd-sleep[2597]: 'SUSPEND' command timed out.
+Jun 26 10:49:32 bla-X411UA systemd-sleep[2598]: /lib/systemd/system-sleep/wpasupplicant failed with error code 254.
+Jun 26 10:49:32 bla-X411UA systemd-sleep[2597]: Suspending system...
+Jun 26 10:49:33 bla-X411UA kernel: [238515.658763] PM: suspend entry (deep)
+Jun 26 10:49:33 bla-X411UA kernel: [238515.658768] PM: Syncing filesystems ... done.
+Jun 27 22:24:10 bla-X411UA kernel: [238515.693901] Freezing user space processes ... (elapsed 0.002 seconds) done.
+Jun 27 22:24:10 bla-X411UA kernel: [238515.696706] OOM killer disabled.
+Jun 27 22:24:10 bla-X411UA kernel: [238515.696706] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Jun 27 22:24:10 bla-X411UA kernel: [238515.698419] Suspending console(s) (use no_console_suspend to debug)
+Jun 27 22:24:10 bla-X411UA kernel: [238515.726645] sd 1:0:0:0: [sda] Synchronizing SCSI cache
+Jun 27 22:24:10 bla-X411UA kernel: [238515.726849] sd 1:0:0:0: [sda] Stopping disk
+Jun 27 22:24:10 bla-X411UA kernel: [238515.875289] ACPI: EC: interrupt blocked
+Jun 27 22:24:10 bla-X411UA kernel: [238515.919167] ACPI: Preparing to enter system sleep state S3
+Jun 27 22:24:10 bla-X411UA kernel: [238515.922444] ACPI: EC: event blocked
+Jun 27 22:24:10 bla-X411UA kernel: [238515.922445] ACPI: EC: EC stopped
+Jun 27 22:24:10 bla-X411UA kernel: [238515.922446] PM: Saving platform NVS memory
+Jun 27 22:24:10 bla-X411UA kernel: [238515.922455] Disabling non-boot CPUs ...
+Jun 27 22:24:10 bla-X411UA kernel: [238515.940034] smpboot: CPU 1 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238515.964003] smpboot: CPU 2 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238515.988043] smpboot: CPU 3 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238516.011360] irq_migrate_all_off_this_cpu: 5 callbacks suppressed
+Jun 27 22:24:10 bla-X411UA kernel: [238516.011363] IRQ 125: no longer affine to CPU4
+Jun 27 22:24:10 bla-X411UA kernel: [238516.012378] smpboot: CPU 4 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238516.034841] IRQ 124: no longer affine to CPU5
+Jun 27 22:24:10 bla-X411UA kernel: [238516.034849] IRQ 127: no longer affine to CPU5
+Jun 27 22:24:10 bla-X411UA kernel: [238516.035860] smpboot: CPU 5 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238516.058915] IRQ 122: no longer affine to CPU6
+Jun 27 22:24:10 bla-X411UA kernel: [238516.058926] IRQ 126: no longer affine to CPU6
+Jun 27 22:24:10 bla-X411UA kernel: [238516.059953] smpboot: CPU 6 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238516.082864] IRQ 1: no longer affine to CPU7
+Jun 27 22:24:10 bla-X411UA kernel: [238516.082873] IRQ 8: no longer affine to CPU7
+Jun 27 22:24:10 bla-X411UA kernel: [238516.082881] IRQ 9: no longer affine to CPU7
+Jun 27 22:24:10 bla-X411UA kernel: [238516.082888] IRQ 14: no longer affine to CPU7
+Jun 27 22:24:10 bla-X411UA kernel: [238516.082896] IRQ 16: no longer affine to CPU7
+Jun 27 22:24:10 bla-X411UA kernel: [238516.083947] smpboot: CPU 7 is now offline
+Jun 27 22:24:10 bla-X411UA kernel: [238338.673245] [Firmware Bug]: TSC ADJUST differs: CPU0 0 --> -16616446. Restoring
+Jun 27 22:24:10 bla-X411UA kernel: [238516.087301] ACPI: Low-level resume complete
+Jun 27 22:24:10 bla-X411UA kernel: [238516.087416] ACPI: EC: EC started
+Jun 27 22:24:10 bla-X411UA kernel: [238516.087416] PM: Restoring platform NVS memory
+Jun 27 22:24:10 bla-X411UA kernel: [238516.089940] Enabling non-boot CPUs ...
+Jun 27 22:24:10 bla-X411UA kernel: [238516.089993] x86: Booting SMP configuration:
+Jun 27 22:24:10 bla-X411UA kernel: [238516.089994] smpboot: Booting Node 0 Processor 1 APIC 0x2
+Jun 27 22:24:10 bla-X411UA kernel: [238516.090338] microcode: sig=0x806ea, pf=0x80, revision=0x96
+Jun 27 22:24:10 bla-X411UA kernel: [238516.092157]  cache: parent cpu1 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.092334] CPU1 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.092364] smpboot: Booting Node 0 Processor 2 APIC 0x4
+Jun 27 22:24:10 bla-X411UA kernel: [238516.094509]  cache: parent cpu2 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.094700] CPU2 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.094733] smpboot: Booting Node 0 Processor 3 APIC 0x6
+Jun 27 22:24:10 bla-X411UA kernel: [238516.096885]  cache: parent cpu3 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.097085] CPU3 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.097147] smpboot: Booting Node 0 Processor 4 APIC 0x1
+Jun 27 22:24:10 bla-X411UA kernel: [238516.097566] microcode: sig=0x806ea, pf=0x80, revision=0xd6
+Jun 27 22:24:10 bla-X411UA kernel: [238516.097712]  cache: parent cpu4 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.098149] CPU4 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.098184] smpboot: Booting Node 0 Processor 5 APIC 0x3
+Jun 27 22:24:10 bla-X411UA kernel: [238516.098700]  cache: parent cpu5 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.098919] CPU5 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.098950] smpboot: Booting Node 0 Processor 6 APIC 0x5
+Jun 27 22:24:10 bla-X411UA kernel: [238516.099452]  cache: parent cpu6 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.099677] CPU6 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.099701] smpboot: Booting Node 0 Processor 7 APIC 0x7
+Jun 27 22:24:10 bla-X411UA kernel: [238516.100208]  cache: parent cpu7 should not be sleeping
+Jun 27 22:24:10 bla-X411UA kernel: [238516.100451] CPU7 is up
+Jun 27 22:24:10 bla-X411UA kernel: [238516.107691] ACPI: Waking up from system sleep state S3
+Jun 27 22:24:10 bla-X411UA kernel: [238516.117256] ACPI: EC: interrupt unblocked
+Jun 27 22:24:10 bla-X411UA kernel: [238516.162030] ACPI: EC: event unblocked
+Jun 27 22:24:10 bla-X411UA kernel: [238516.162485] sd 1:0:0:0: [sda] Starting disk
+Jun 27 22:24:10 bla-X411UA kernel: [238516.162994] usb usb1: root hub lost power or was reset
+Jun 27 22:24:10 bla-X411UA kernel: [238516.162998] usb usb2: root hub lost power or was reset
+Jun 27 22:24:10 bla-X411UA kernel: [238516.168428] rtc_cmos 00:01: Alarms can be up to one month in the future
+Jun 27 22:24:10 bla-X411UA kernel: [238516.479213] ata1: SATA link down (SStatus 4 SControl 300)
+Jun 27 22:24:10 bla-X411UA kernel: [238516.479258] ata2: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Jun 27 22:24:10 bla-X411UA kernel: [238516.481179] ata2.00: ACPI cmd ef/10:06:00:00:00:00 (SET FEATURES) succeeded
+Jun 27 22:24:10 bla-X411UA kernel: [238516.481185] ata2.00: ACPI cmd f5/00:00:00:00:00:00 (SECURITY FREEZE LOCK) filtered out
+Jun 27 22:24:10 bla-X411UA kernel: [238516.481188] ata2.00: ACPI cmd b1/c1:00:00:00:00:00 (DEVICE CONFIGURATION OVERLAY) filtered out
+Jun 27 22:24:10 bla-X411UA kernel: [238516.483504] ata2.00: ACPI cmd ef/10:06:00:00:00:00 (SET FEATURES) succeeded
+Jun 27 22:24:10 bla-X411UA kernel: [238516.483509] ata2.00: ACPI cmd f5/00:00:00:00:00:00 (SECURITY FREEZE LOCK) filtered out
+Jun 27 22:24:10 bla-X411UA kernel: [238516.483513] ata2.00: ACPI cmd b1/c1:00:00:00:00:00 (DEVICE CONFIGURATION OVERLAY) filtered out
+Jun 27 22:24:10 bla-X411UA kernel: [238516.483888] ata2.00: configured for UDMA/133
+Jun 27 22:24:10 bla-X411UA kernel: [238516.518737] usb 1-1: reset full-speed USB device number 2 using xhci_hcd
+Jun 27 22:24:10 bla-X411UA kernel: [238516.794284] usb 1-8: reset full-speed USB device number 4 using xhci_hcd
+Jun 27 22:24:10 bla-X411UA kernel: [238517.070647] usb 1-6: reset high-speed USB device number 3 using xhci_hcd
+Jun 27 22:24:10 bla-X411UA kernel: [238517.207115] [drm] RC6 on
+Jun 27 22:24:10 bla-X411UA kernel: [238517.240949] OOM killer enabled.
+Jun 27 22:24:10 bla-X411UA kernel: [238517.240950] Restarting tasks ... 
+Jun 27 22:24:10 bla-X411UA kernel: [238517.247840] Bluetooth: hci0: using rampatch file: qca/rampatch_usb_00000302.bin
+Jun 27 22:24:10 bla-X411UA kernel: [238517.247843] Bluetooth: hci0: QCA: patch rome 0x302 build 0x3e8, firmware rome 0x302 build 0x111
+Jun 27 22:24:10 bla-X411UA kernel: [238517.248230] done.
+Jun 27 22:24:10 bla-X411UA kernel: [238517.264850] PM: suspend exit
+Jun 27 22:24:10 bla-X411UA systemd[1]: Time has been changed
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Endpoint unregistered: sender=:1.64 path=/MediaEndpoint/A2DPSource
+Jun 27 22:24:10 bla-X411UA systemd[1361]: Time has been changed
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Endpoint unregistered: sender=:1.64 path=/MediaEndpoint/A2DPSink
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]: System resumed.
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]: Failed to connect to non-global ctrl_ifname: (nil)  error: No such file or directory
+Jun 27 22:24:10 bla-X411UA systemd[1]: Starting Message of the Day...
+Jun 27 22:24:10 bla-X411UA systemd[1]: Starting Load/Save RF Kill Switch Status...
+Jun 27 22:24:10 bla-X411UA systemd[1]: bluetooth.target: Unit not needed anymore. Stopping.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Stopped target Bluetooth.
+Jun 27 22:24:10 bla-X411UA kernel: [238517.303081] Bluetooth: hci0: using NVM file: qca/nvm_usb_00000302.bin
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]: /dev/sda:
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]:  setting Advanced Power Management level to 0x80 (128)
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]:  APM_level#011= 128
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]: /dev/sda:
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2597]:  setting standby to 36 (3 minutes)
+Jun 27 22:24:10 bla-X411UA systemd-sleep[2639]: /lib/systemd/system-sleep/wpasupplicant failed with error code 255.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Started Suspend.
+Jun 27 22:24:10 bla-X411UA systemd[1]: sleep.target: Unit not needed anymore. Stopping.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Started Message of the Day.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Stopped target Sleep.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Reached target Suspend.
+Jun 27 22:24:10 bla-X411UA systemd[1]: suspend.target: Unit is bound to inactive unit systemd-suspend.service. Stopping, too.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Stopped target Suspend.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Started Run anacron jobs at resume.
+Jun 27 22:24:10 bla-X411UA NetworkManager[901]: <info>  [1593285850.4183] manager: wake requested (sleeping: yes  enabled: yes)
+Jun 27 22:24:10 bla-X411UA NetworkManager[901]: <info>  [1593285850.4183] manager: waking up...
+Jun 27 22:24:10 bla-X411UA NetworkManager[901]: <info>  [1593285850.4183] device (wlp2s0): state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Jun 27 22:24:10 bla-X411UA kernel: [238517.506659] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Failed to obtain handles for "Service Changed" characteristic
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Error adding Link Loss service
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: message repeated 2 times: [ Not enough free handles to register service]
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Current Time Service could not be registered
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: gatt-time-server: Input/output error (5)
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Not enough free handles to register service
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: Sap driver initialization failed.
+Jun 27 22:24:10 bla-X411UA bluetoothd[848]: sap-server: Operation not permitted (1)
+Jun 27 22:24:10 bla-X411UA systemd[1]: Started Load/Save RF Kill Switch Status.
+Jun 27 22:24:10 bla-X411UA systemd[1]: Reached target Bluetooth.
+Jun 27 22:24:11 bla-X411UA kernel: [238518.220936] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 27 22:24:11 bla-X411UA NetworkManager[901]: <info>  [1593285851.1341] manager: NetworkManager state is now DISCONNECTED
+Jun 27 22:24:11 bla-X411UA wpa_supplicant[1149]: dbus: wpa_dbus_get_object_properties: failed to get object properties: (none) none
+Jun 27 22:24:11 bla-X411UA wpa_supplicant[1149]: dbus: Failed to construct signal
+Jun 27 22:24:11 bla-X411UA bluetoothd[848]: Endpoint registered: sender=:1.64 path=/MediaEndpoint/A2DPSource
+Jun 27 22:24:11 bla-X411UA bluetoothd[848]: Endpoint registered: sender=:1.64 path=/MediaEndpoint/A2DPSink
+Jun 27 22:24:11 bla-X411UA wpa_supplicant[1149]: Could not read interface p2p-dev-wlp2s0 flags: No such device
+Jun 27 22:24:11 bla-X411UA NetworkManager[901]: <info>  [1593285851.3084] device (wlp2s0): supplicant interface state: starting -> ready
+Jun 27 22:24:11 bla-X411UA NetworkManager[901]: <info>  [1593285851.3085] device (wlp2s0): state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+Jun 27 22:24:11 bla-X411UA kernel: [238518.396683] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+Jun 27 22:24:12 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 27 22:24:12 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1259] device (wlp2s0): supplicant interface state: ready -> inactive
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1407] policy: auto-activating connection 'AVIAD2.4'
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1418] device (wlp2s0): Activation: starting connection 'AVIAD2.4' (fb51c7d2-f4f3-48af-a2bf-33e18cd83329)
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1420] device (wlp2s0): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1422] manager: NetworkManager state is now CONNECTING
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1427] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1430] device (wlp2s0): Activation: (wifi) access point 'AVIAD2.4' has security, but secrets are required.
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1430] device (wlp2s0): state change: config -> need-auth (reason 'none') [50 60 0]
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1475] device (wlp2s0): state change: need-auth -> prepare (reason 'none') [60 40 0]
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1478] device (wlp2s0): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1482] device (wlp2s0): Activation: (wifi) connection 'AVIAD2.4' has security, and secrets exist.  No new secrets needed.
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1483] Config: added 'ssid' value 'AVIAD2.4'
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1483] Config: added 'scan_ssid' value '1'
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1483] Config: added 'key_mgmt' value 'WPA-PSK'
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1484] Config: added 'auth_alg' value 'OPEN'
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1484] Config: added 'psk' value '<omitted>'
+Jun 27 22:24:16 bla-X411UA NetworkManager[901]: <info>  [1593285856.1520] sup-iface[0x1cb06d0,wlp2s0]: config: set interface ap_scan to 1
+Jun 27 22:24:16 bla-X411UA gnome-session[1594]: (nm-applet:1793): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed
+Jun 27 22:24:16 bla-X411UA gnome-session[1594]: message repeated 17 times: [ (nm-applet:1793): nm-applet-CRITICAL **: get_menu_item_for_ap: assertion 'dup_data.hash != NULL' failed]
+Jun 27 22:24:17 bla-X411UA wpa_supplicant[1149]: p2p-dev-wlp2s0: CTRL-EVENT-REGDOM-CHANGE init=BEACON_HINT type=UNKNOWN
+Jun 27 22:24:20 bla-X411UA wpa_supplicant[1149]: wlp2s0: SME: Trying to authenticate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 27 22:24:20 bla-X411UA kernel: [238528.023092] wlp2s0: authenticate with a4:91:b1:c9:e1:6d
+Jun 27 22:24:20 bla-X411UA kernel: [238528.059992] wlp2s0: send auth to a4:91:b1:c9:e1:6d (try 1/3)
+Jun 27 22:24:20 bla-X411UA NetworkManager[901]: <info>  [1593285860.9748] device (wlp2s0): supplicant interface state: inactive -> authenticating
+Jun 27 22:24:20 bla-X411UA wpa_supplicant[1149]: wlp2s0: Trying to associate with a4:91:b1:c9:e1:6d (SSID='AVIAD2.4' freq=2412 MHz)
+Jun 27 22:24:20 bla-X411UA kernel: [238528.061711] wlp2s0: authenticated
+Jun 27 22:24:20 bla-X411UA kernel: [238528.065120] wlp2s0: associate with a4:91:b1:c9:e1:6d (try 1/3)
+Jun 27 22:24:20 bla-X411UA kernel: [238528.068805] wlp2s0: RX AssocResp from a4:91:b1:c9:e1:6d (capab=0x1411 status=0 aid=1)
+Jun 27 22:24:20 bla-X411UA wpa_supplicant[1149]: wlp2s0: Associated with a4:91:b1:c9:e1:6d
+Jun 27 22:24:20 bla-X411UA kernel: [238528.070661] wlp2s0: associated
+Jun 27 22:24:20 bla-X411UA NetworkManager[901]: <info>  [1593285860.9918] device (wlp2s0): supplicant interface state: authenticating -> associating
+Jun 27 22:24:20 bla-X411UA NetworkManager[901]: <info>  [1593285860.9921] device (wlp2s0): supplicant interface state: associating -> associated
+Jun 27 22:24:20 bla-X411UA NetworkManager[901]: <info>  [1593285860.9980] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Jun 27 22:24:21 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Key negotiation completed with a4:91:b1:c9:e1:6d [PTK=CCMP GTK=CCMP]
+Jun 27 22:24:21 bla-X411UA wpa_supplicant[1149]: wlp2s0: CTRL-EVENT-CONNECTED - Connection to a4:91:b1:c9:e1:6d completed [id=0 id_str=]
+Jun 27 22:24:21 bla-X411UA kernel: [238528.106567] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+Jun 27 22:24:21 bla-X411UA NetworkManager[901]: <info>  [1593285861.0250] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Jun 27 22:24:21 bla-X411UA NetworkManager[901]: <info>  [1593285861.0252] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'AVIAD2.4'.
+Jun 27 22:24:21 bla-X411UA NetworkManager[901]: <info>  [1593285861.0255] device (wlp2s0): state change: config -> ip-config (reason 'none') [50 70 0]
+Jun 27 22:24:21 bla-X411UA NetworkManager[901]: <info>  [1593285861.0274] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 27 22:24:21 bla-X411UA NetworkManager[901]: <info>  [1593285861.0352] dhcp4 (wlp2s0): dhclient started with pid 2782
+Jun 27 22:24:21 bla-X411UA dhclient[2782]: DHCPDISCOVER on wlp2s0 to 255.255.255.255 port 67 interval 3 (xid=0xd037456)
+Jun 27 22:24:22 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 27 22:24:22 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv6 for mDNS.
+Jun 27 22:24:22 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 27 22:24:23 bla-X411UA NetworkManager[901]: <info>  [1593285863.3464] dhcp6 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Jun 27 22:24:23 bla-X411UA NetworkManager[901]: <info>  [1593285863.3492] dhcp6 (wlp2s0): dhclient started with pid 2801
+Jun 27 22:24:24 bla-X411UA dhclient[2801]: XMT: Info-Request on wlp2s0, interval 960ms.
+Jun 27 22:24:24 bla-X411UA dhclient[2801]: RCV: Reply message on wlp2s0 from fe80::a691:b1ff:fec9:e16c.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3389]   nameserver 'fd09:c43d:4323::1'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3390]   domain search 'lan.'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3390] dhcp6 (wlp2s0): state changed unknown -> bound
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3416] device (wlp2s0): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Jun 27 22:24:24 bla-X411UA dbus[876]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3437] device (wlp2s0): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3447] device (wlp2s0): state change: secondaries -> activated (reason 'none') [90 100 0]
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3449] manager: NetworkManager state is now CONNECTED_LOCAL
+Jun 27 22:24:24 bla-X411UA systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.3487] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA dbus[876]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 27 22:24:24 bla-X411UA systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:1 'dhcp6-change' [wlp2s0]: new request (1 scripts)
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:1 'dhcp6-change' [wlp2s0]: start running ordered scripts...
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: DHCPREQUEST of 192.168.1.118 on wlp2s0 to 255.255.255.255 port 67 (xid=0x5674030d)
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: DHCPOFFER of 192.168.1.118 from 192.168.1.1
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4233] device (wlp2s0): Activation: successful, device activated.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4249] dhcp6 (wlp2s0): client pid 2801 exited with status 0
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4249] dhcp6 (wlp2s0): state changed bound -> done
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:2 'up' [wlp2s0]: new request (1 scripts)
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:2 'up' [wlp2s0]: start running ordered scripts...
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4320]   address 192.168.1.118
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4320]   plen 24 (255.255.255.0)
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   gateway 192.168.1.1
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   server identifier 192.168.1.1
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   lease time 43200
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   hostname 'bla-X411UA'
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   nameserver '192.168.1.1'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4322]   domain name 'lan'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4322] dhcp4 (wlp2s0): state changed unknown -> bound
+Jun 27 22:24:24 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1970 was not found when attempting to remove it
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv4 for mDNS.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Registering new address record for 192.168.1.118 on wlp2s0.IPv4.
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: bound to 192.168.1.118 -- renewal in 20539 seconds.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4470] manager: NetworkManager state is now CONNECTED_GLOBAL
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4473] policy: set 'AVIAD2.4' (wlp2s0) as default for IPv4 routing and DNS
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4481] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 27 22:24:24 bla-X411UA systemd[1]: Reloading OpenBSD Secure Shell server.
+Jun 27 22:24:24 bla-X411UA systemd[1]: Reloaded OpenBSD Secure Shell server.
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 27 22:24:25 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] online
+Jun 27 22:24:30 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 27 22:24:31 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 27 22:24:31 bla-X411UA org.debian.apt[876]: 22:24:31 AptDaemon [INFO]: Initializing daemon
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 27 22:24:32 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon [INFO]: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA AptDaemon.Trans: INFO: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jlt for IPv4 routing and DNS
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4481] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 27 22:24:24 bla-X411UA systemd[1]: Reloading OpenBSD Secure Shell server.
+Jun 27 22:24:24 bla-X411UA systemd[1]: Reloaded OpenBSD Secure Shell server.
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 27 22:24:25 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] online
+Jun 27 22:24:30 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 27 22:24:31 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 27 22:24:31 bla-X411UA org.debian.apt[876]: 22:24:31 AptDaemon [INFO]: Initializing daemon
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 27 22:24:32 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon [INFO]: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA AptDaemon.Trans: INFO: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Trans [INFO]: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA AptDaemon.Worker: INFO: Simulating trans: /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Worker [INFO]: Simulating trans: /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA AptDaemon.Worker: INFO: Processing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Worker [INFO]: Processing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:36 bla-X411UA AptDaemon.Worker: INFO: Updating cache
+Jun 27 22:24:36 bla-X411UA org.debian.apt[876]: 22:24:36 AptDaemon.Worker [INFO]: Updating cache
+Jun 27 22:24:39 bla-X411UA gnome-session[1594]: (gnome-software:1787): Gs-WARNING **: failed to call gs_plugin_refresh on apt: apt transaction returned result exit-failed
+Jun 27 22:24:39 bla-X411UA AptDaemon.Worker: INFO: Finished transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:39 bla-X411UA org.debian.apt[876]: 22:24:39 AptDaemon.Worker [INFO]: Finished transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:27:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:28:50 bla-X411UA snapd[908]: storehelpers.go:438: cannot refresh: snap has no updates available: "core18", "snapd", "zoom-client"
+Jun 27 22:35:32 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 27 22:35:32 bla-X411UA org.debian.apt[876]: 22:35:32 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:35:32 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 27 22:35:32 bla-X411UA org.debian.apt[876]: 22:35:32 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:37:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Supervising 11 threads of 9 processes of 1 users.
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: message repeated 3 times: [ Supervising 11 threads of 9 processes of 1 users.]
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Successfully made thread 3654 of process 29502 (n/a) owned by '1000' RT at priority 10.
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Supervising 12 threads of 10 processes of 1 users.
+Jun 27 22:47:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:57:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:58:24 bla-X411UA systemd[1361]: Time has been changed
+Jun 27 22:58:24 bla-X411UA systemd[1]: Time has been changed
+Jun 27 22:58:24 bla-X411UA systemd-timesyncd[712]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+Jun 27 23:07:15 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 23:17:01 bla-X411UA CRON[4317]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 27 23:17:15 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 23:57:15 bla-X411UA wpa_supplicant[1149]: message repeated 4 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6310] manager: sleep requested (sleeping: no  enabled: yes)
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6348] manager: sleeping...
+Jun 28 00:01:18 bla-X411UA whoopsie[1160]: [00:01:18] offline
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.
+Jun 28 00:01:18 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 2037 was not found when attempting to remove it
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6362] manager: NetworkManager state is now ASLEEP
+Jun 28 00:01:18 bla-X411UA kernel: [244339.514659] wlp2s0: deauthenticating from a4:91:b1:c9:e1:6d by local choice (Reason: 3=DEAUTH_LEAVING)
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6386] device (wlp2s0): state change: activated -> deactivating (reason 'sleeping') [100 110 37]
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Leaving  on wlp2s0 to 255.255.255.255 port 67 (xid=0x5674030d)
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: DHCPOFFER of 192.168.1.118 from 192.168.1.1
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: DHCPACK of 192.168.1.118 from 192.168.1.1
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4233] device (wlp2s0): Activation: successful, device activated.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4249] dhcp6 (wlp2s0): client pid 2801 exited with status 0
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4249] dhcp6 (wlp2s0): state changed bound -> done
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:2 'up' [wlp2s0]: new request (1 scripts)
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:2 'up' [wlp2s0]: start running ordered scripts...
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4320]   address 192.168.1.118
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4320]   plen 24 (255.255.255.0)
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   gateway 192.168.1.1
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   server identifier 192.168.1.1
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   lease time 43200
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   hostname 'bla-X411UA'
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4321]   nameserver '192.168.1.1'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4322]   domain name 'lan'
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4322] dhcp4 (wlp2s0): state changed unknown -> bound
+Jun 27 22:24:24 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 1970 was not found when attempting to remove it
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: New relevant interface wlp2s0.IPv4 for mDNS.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Registering new address record for 192.168.1.118 on wlp2s0.IPv4.
+Jun 27 22:24:24 bla-X411UA dhclient[2782]: bound to 192.168.1.118 -- renewal in 20539 seconds.
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4470] manager: NetworkManager state is now CONNECTED_GLOBAL
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4473] policy: set 'AVIAD2.4' (wlp2s0) as default for IPv4 routing and DNS
+Jun 27 22:24:24 bla-X411UA NetworkManager[901]: <info>  [1593285864.4481] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver 192.168.1.1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: new request (1 scripts)
+Jun 27 22:24:24 bla-X411UA systemd[1]: Reloading OpenBSD Secure Shell server.
+Jun 27 22:24:24 bla-X411UA systemd[1]: Reloaded OpenBSD Secure Shell server.
+Jun 27 22:24:24 bla-X411UA nm-dispatcher: req:3 'dhcp4-change' [wlp2s0]: start running ordered scripts...
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.*.
+Jun 27 22:24:24 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 27 22:24:25 bla-X411UA avahi-daemon[841]: Registering new address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.*.
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/27
+Jun 27 22:24:29 bla-X411UA whoopsie[1160]: [22:24:29] online
+Jun 27 22:24:30 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 27 22:24:31 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 27 22:24:31 bla-X411UA org.debian.apt[876]: 22:24:31 AptDaemon [INFO]: Initializing daemon
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 27 22:24:32 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon [INFO]: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA AptDaemon.Trans: INFO: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Trans [INFO]: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA AptDaemon.Worker: INFO: Simulating trans: /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Worker [INFO]: Simulating trans: /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA AptDaemon.Worker: INFO: Processing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Worker [INFO]: Processing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:36 bla-X411UA AptDaemon.Worker: INFO: Updating cache
+Jun 27 22:24:36 bla-X411UA org.debian.apt[876]: 22:24:36 AptDaemon.Worker [INFO]: Updating cache
+Jun 27 22:24:39 bla-X411UA gnome-session[1594]: (gnome-software:1787): Gs-WARNING **: failed to call gs_plugin_refresh on apt: apt transaction returned result exit-failed
+Jun 27 22:24:39 bla-X411UA AptDaemon.Worker: INFO: Finished transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:39 bla-X411UA org.debian.apt[876]: 22:24:39 AptDaemon.Worker [INFO]: Finished transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:27:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:28:50 bla-X411UA snapd[908]: storehelpers.go:438: cannot refresh: snap has no updates available: "core18", "snapd", "zoom-client"
+Jun 27 22:35:32 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 27 22:35:32 bla-X411UA org.debian.apt[876]: 22:35:32 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:35:32 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 27 22:35:32 bla-X411UA org.debian.apt[876]: 22:35:32 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:37:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Supervising 11 threads of 9 procrequested
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:24:30 bla-X411UA org.debian.apt[876]: 22:24:30 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Activating service name='org.debian.apt' (using servicehelper)
+Jun 27 22:24:31 bla-X411UA AptDaemon: INFO: Initializing daemon
+Jun 27 22:24:31 bla-X411UA org.debian.apt[876]: 22:24:31 AptDaemon [INFO]: Initializing daemon
+Jun 27 22:24:31 bla-X411UA dbus[876]: [system] Successfully activated service 'org.debian.apt'
+Jun 27 22:24:32 bla-X411UA AptDaemon.PackageKit: INFO: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: /usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py:35: PyGIWarning: PackageKitGlib was imported without specifying a version first. Use gi.require_version('PackageKitGlib', '1.0') before import to ensure that the right version gets loaded.
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]:   from gi.repository import PackageKitGlib as pk
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.PackageKit [INFO]: Initializing PackageKit compat layer
+Jun 27 22:24:32 bla-X411UA AptDaemon: INFO: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon [INFO]: UpdateCache() was called
+Jun 27 22:24:32 bla-X411UA AptDaemon.Trans: INFO: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Trans [INFO]: Queuing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA AptDaemon.Worker: INFO: Simulating trans: /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Worker [INFO]: Simulating trans: /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA AptDaemon.Worker: INFO: Processing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:32 bla-X411UA org.debian.apt[876]: 22:24:32 AptDaemon.Worker [INFO]: Processing transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:36 bla-X411UA AptDaemon.Worker: INFO: Updating cache
+Jun 27 22:24:36 bla-X411UA org.debian.apt[876]: 22:24:36 AptDaemon.Worker [INFO]: Updating cache
+Jun 27 22:24:39 bla-X411UA gnome-session[1594]: (gnome-software:1787): Gs-WARNING **: failed to call gs_plugin_refresh on apt: apt transaction returned result exit-failed
+Jun 27 22:24:39 bla-X411UA AptDaemon.Worker: INFO: Finished transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:24:39 bla-X411UA org.debian.apt[876]: 22:24:39 AptDaemon.Worker [INFO]: Finished transaction /org/debian/apt/transaction/00c9099400a647ffb55baa5e2bd23113
+Jun 27 22:27:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:28:50 bla-X411UA snapd[908]: storehelpers.go:438: cannot refresh: snap has no updates available: "core18", "snapd", "zoom-client"
+Jun 27 22:35:32 bla-X411UA AptDaemon: INFO: Quitting due to inactivity
+Jun 27 22:35:32 bla-X411UA org.debian.apt[876]: 22:35:32 AptDaemon [INFO]: Quitting due to inactivity
+Jun 27 22:35:32 bla-X411UA AptDaemon: INFO: Quitting was requested
+Jun 27 22:35:32 bla-X411UA org.debian.apt[876]: 22:35:32 AptDaemon [INFO]: Quitting was requested
+Jun 27 22:37:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Supervising 11 threads of 9 processes of 1 users.
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: message repeated 3 times: [ Supervising 11 threads of 9 processes of 1 users.]
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Successfully made thread 3654 of process 29502 (n/a) owned by '1000' RT at priority 10.
+Jun 27 22:40:46 bla-X411UA rtkit-daemon[1250]: Supervising 12 threads of 10 processes of 1 users.
+Jun 27 22:47:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:57:09 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 22:58:24 bla-X411UA systemd[1361]: Time has been changed
+Jun 27 22:58:24 bla-X411UA systemd[1]: Time has been changed
+Jun 27 22:58:24 bla-X411UA systemd-timesyncd[712]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+Jun 27 23:07:15 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 23:17:01 bla-X411UA CRON[4317]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 27 23:17:15 bla-X411UA wpa_supplicant[1149]: wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]
+Jun 27 23:57:15 bla-X411UA wpa_supplicant[1149]: message repeated 4 times: [ wlp2s0: WPA: Group rekeying completed with a4:91:b1:c9:e1:6d [GTK=CCMP]]
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6310] manager: sleep requested (sleeping: no  enabled: yes)
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6348] manager: sleeping...
+Jun 28 00:01:18 bla-X411UA whoopsie[1160]: [00:01:18] offline
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:d9e4:3cd7:d917:209c on wlp2s0.
+Jun 28 00:01:18 bla-X411UA gnome-session[1594]: (deja-dup-monitor:2770): GLib-CRITICAL **: Source ID 2037 was not found when attempting to remove it
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6362] manager: NetworkManager state is now ASLEEP
+Jun 28 00:01:18 bla-X411UA kernel: [244339.514659] wlp2s0: deauthenticating from a4:91:b1:c9:e1:6d by local choice (Reason: 3=DEAUTH_LEAVING)
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Withdrawing address record for fd09:c43d:4323:0:5cbf:218b:25f5:9cf on wlp2s0.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6386] device (wlp2s0): state change: activated -> deactivating (reason 'sleeping') [100 110 37]
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fd09:c43d:4323:0:5cbf:218b:25f5:9cf.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6497] device (wlp2s0): state change: deactivating -> disconnected (reason 'sleeping') [110 30 37]
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Joining mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6822] dhcp4 (wlp2s0): canceled DHCP transaction, DHCP client pid 2782
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Registering new address record for fe80::e723:e840:2e36:fe5d on wlp2s0.*.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6822] dhcp4 (wlp2s0): state changed bound -> done
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Withdrawing address record for fe80::e723:e840:2e36:fe5d on wlp2s0.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6841] dhcp6 (wlp2s0): canceled DHCP transaction
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv6 with address fe80::e723:e840:2e36:fe5d.
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.6922] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv6 no longer relevant for mDNS.
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Withdrawing address record for 192.168.1.118 on wlp2s0.
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Leaving mDNS multicast group on interface wlp2s0.IPv4 with address 192.168.1.118.
+Jun 28 00:01:18 bla-X411UA avahi-daemon[841]: Interface wlp2s0.IPv4 no longer relevant for mDNS.
+Jun 28 00:01:18 bla-X411UA dnsmasq[1966]: setting upstream servers from DBus
+Jun 28 00:01:18 bla-X411UA dnsmasq[1966]: using nameserver fd09:c43d:4323::1#53(via wlp2s0)
+Jun 28 00:01:18 bla-X411UA NetworkManager[901]: <info>  [1593291678.7335] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 28 00:01:18 bla
